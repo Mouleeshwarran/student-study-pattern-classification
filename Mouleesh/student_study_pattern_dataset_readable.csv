@@ -1,0 +1,1001 @@
+study_hours,sleep_hours,revision_frequency,assignment_procrastination,study_distraction,phone_usage,social_media_hours,study_schedule,exam_preparation,planned_goals_completed,academic_confidence,study_stress,category
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Never,1 week before,Sometimes,Confident,Frequently,Needs Time Management
+2–4 hours,<5 hours,Rarely,Always,Difficult,Sometimes,4+ hours,Usually,Night before,Sometimes,Not confident,Frequently,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Always,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Usually,Very confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Daily,Often,Very easily,Frequently,2–4 hours,Sometimes,Night before,Sometimes,Confident,Never,Easily Distracted
+4+ hours,<5 hours,Before exams,Never,Sometimes,Rarely,4+ hours,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+4+ hours,8+ hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+<1 hour,<5 hours,Rarely,Never,Very difficult,Rarely,<1 hour,Sometimes,1 week before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Rarely,Often,Very easily,Sometimes,4+ hours,Never,Night before,Rarely,Confident,Rarely,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Often,Difficult,Frequently,4+ hours,Never,Night before,Usually,Confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Sometimes,Sometimes,Frequently,4+ hours,Sometimes,Weeks before,Rarely,Confident,Rarely,Easily Distracted
+4+ hours,8+ hours,Before exams,Sometimes,Difficult,Rarely,<1 hour,Always,Weeks before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,5–6 hours,Rarely,Sometimes,Very easily,Sometimes,2–4 hours,Never,Night before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+<1 hour,8+ hours,Rarely,Always,Very easily,Frequently,4+ hours,Never,Night before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Never,Difficult,Never,<1 hour,Usually,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+<1 hour,6–8 hours,Few times a week,Always,Difficult,Never,1–2 hours,Always,1 week before,Always,Not confident,Rarely,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Often,Very difficult,Sometimes,1–2 hours,Always,Weeks before,Usually,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Daily,Always,Very easily,Frequently,2–4 hours,Usually,A few days before,Always,Very confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+<1 hour,6–8 hours,Before exams,Often,Very easily,Rarely,1–2 hours,Never,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+4+ hours,5–6 hours,Rarely,Sometimes,Difficult,Never,2–4 hours,Sometimes,Night before,Sometimes,Not confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Always,Very easily,Frequently,1–2 hours,Always,Night before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Usually,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+<1 hour,<5 hours,Few times a week,Often,Sometimes,Rarely,2–4 hours,Never,A few days before,Always,Neutral,Rarely,Needs Time Management
+1–2 hours,8+ hours,Few times a week,Often,Sometimes,Sometimes,2–4 hours,Always,1 week before,Sometimes,Very confident,Sometimes,Needs Time Management
+<1 hour,<5 hours,Few times a week,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,1 week before,Usually,Neutral,Sometimes,Needs Time Management
+<1 hour,8+ hours,Daily,Often,Very easily,Frequently,4+ hours,Sometimes,1 week before,Rarely,Very confident,Frequently,Easily Distracted
+2–4 hours,8+ hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Not confident,Never,Consistent Learner
+4+ hours,5–6 hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Rarely,Not confident,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Daily,Never,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+4+ hours,<5 hours,Before exams,Never,Very difficult,Rarely,1–2 hours,Sometimes,A few days before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Never,1 week before,Usually,Not confident,Rarely,Easily Distracted
+4+ hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Usually,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Never,Sometimes,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Always,Difficult,Rarely,<1 hour,Never,Night before,Sometimes,Neutral,Frequently,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Never,1 week before,Sometimes,Confident,Frequently,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Frequently,<1 hour,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Never,Difficult,Sometimes,1–2 hours,Sometimes,Night before,Usually,Neutral,Sometimes,Needs Time Management
+4+ hours,5–6 hours,Few times a week,Sometimes,Sometimes,Rarely,1–2 hours,Usually,A few days before,Always,Very confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Sometimes,Night before,Always,Not confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,1–2 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+4+ hours,5–6 hours,Daily,Never,Very difficult,Never,<1 hour,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,<5 hours,Before exams,Often,Sometimes,Sometimes,1–2 hours,Never,A few days before,Sometimes,Very confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Difficult,Rarely,2–4 hours,Usually,A few days before,Always,Confident,Never,Consistent Learner
+1–2 hours,8+ hours,Before exams,Always,Difficult,Frequently,2–4 hours,Usually,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Often,Sometimes,Rarely,1–2 hours,Usually,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Frequently,4+ hours,Sometimes,Weeks before,Sometimes,Not confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,2–4 hours,Never,1 week before,Usually,Neutral,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Rarely,Confident,Never,Needs Time Management
+<1 hour,6–8 hours,Before exams,Often,Difficult,Sometimes,2–4 hours,Sometimes,Night before,Usually,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Always,Very difficult,Never,1–2 hours,Usually,Weeks before,Always,Confident,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Never,A few days before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Usually,Neutral,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Always,Difficult,Sometimes,4+ hours,Sometimes,Night before,Rarely,Not confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Frequently,2–4 hours,Never,1 week before,Rarely,Very confident,Frequently,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Often,Sometimes,Sometimes,1–2 hours,Never,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Very easily,Frequently,2–4 hours,Never,A few days before,Rarely,Confident,Frequently,Last-Minute Learner
+4+ hours,8+ hours,Few times a week,Never,Very difficult,Never,<1 hour,Usually,Weeks before,Sometimes,Neutral,Sometimes,Consistent Learner
+1–2 hours,8+ hours,Before exams,Never,Difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+<1 hour,5–6 hours,Rarely,Never,Sometimes,Never,<1 hour,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,<1 hour,Never,Weeks before,Sometimes,Not confident,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Sometimes,Sometimes,Rarely,2–4 hours,Never,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Rarely,1–2 hours,Sometimes,A few days before,Sometimes,Neutral,Never,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Very easily,Rarely,2–4 hours,Sometimes,Weeks before,Sometimes,Not confident,Frequently,Last-Minute Learner
+4+ hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,<1 hour,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Always,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+<1 hour,8+ hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,Weeks before,Sometimes,Confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Never,<1 hour,Always,A few days before,Usually,Neutral,Never,Consistent Learner
+<1 hour,6–8 hours,Rarely,Often,Difficult,Rarely,4+ hours,Never,A few days before,Usually,Very confident,Frequently,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Never,1–2 hours,Usually,1 week before,Always,Very confident,Frequently,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Frequently,4+ hours,Never,A few days before,Sometimes,Not confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Sometimes,1–2 hours,Usually,Night before,Sometimes,Confident,Frequently,Easily Distracted
+4+ hours,8+ hours,Before exams,Never,Difficult,Rarely,2–4 hours,Usually,1 week before,Usually,Confident,Rarely,Consistent Learner
+4+ hours,8+ hours,Daily,Never,Very difficult,Rarely,2–4 hours,Always,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Never,A few days before,Sometimes,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,8+ hours,Daily,Often,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Usually,Confident,Frequently,Easily Distracted
+1–2 hours,<5 hours,Before exams,Never,Very easily,Sometimes,4+ hours,Usually,1 week before,Usually,Confident,Frequently,Easily Distracted
+4+ hours,5–6 hours,Few times a week,Always,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Always,Neutral,Sometimes,Easily Distracted
+4+ hours,5–6 hours,Few times a week,Never,Difficult,Never,1–2 hours,Usually,1 week before,Usually,Not confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Very difficult,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,4+ hours,Sometimes,1 week before,Always,Neutral,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Rarely,Often,Sometimes,Sometimes,1–2 hours,Sometimes,A few days before,Usually,Very confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Always,Sometimes,Sometimes,4+ hours,Sometimes,1 week before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Usually,Neutral,Sometimes,Needs Time Management
+4+ hours,5–6 hours,Daily,Never,Very difficult,Never,2–4 hours,Always,Weeks before,Usually,Neutral,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Daily,Sometimes,Very easily,Rarely,2–4 hours,Sometimes,1 week before,Rarely,Very confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Rarely,Sometimes,Sometimes,Rarely,2–4 hours,Never,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,8+ hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Usually,Night before,Sometimes,Neutral,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Daily,Always,Very easily,Rarely,2–4 hours,Sometimes,1 week before,Rarely,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Sometimes,4+ hours,Sometimes,1 week before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Often,Difficult,Frequently,4+ hours,Never,1 week before,Sometimes,Not confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Daily,Often,Very difficult,Rarely,<1 hour,Usually,1 week before,Always,Not confident,Frequently,Consistent Learner
+<1 hour,6–8 hours,Few times a week,Always,Very easily,Frequently,4+ hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Always,Sometimes,Frequently,1–2 hours,Usually,1 week before,Rarely,Neutral,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Daily,Always,Very easily,Frequently,4+ hours,Sometimes,Night before,Sometimes,Neutral,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Never,Very easily,Frequently,4+ hours,Never,Weeks before,Sometimes,Confident,Frequently,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,1 week before,Rarely,Confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Never,<1 hour,Always,1 week before,Sometimes,Not confident,Sometimes,Consistent Learner
+4+ hours,6–8 hours,Daily,Often,Difficult,Rarely,<1 hour,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+4+ hours,5–6 hours,Daily,Never,Difficult,Sometimes,<1 hour,Sometimes,Weeks before,Sometimes,Not confident,Sometimes,Consistent Learner
+<1 hour,8+ hours,Before exams,Often,Very easily,Sometimes,4+ hours,Usually,A few days before,Sometimes,Very confident,Rarely,Easily Distracted
+<1 hour,6–8 hours,Few times a week,Often,Difficult,Rarely,2–4 hours,Always,Night before,Rarely,Neutral,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Daily,Sometimes,Sometimes,Never,2–4 hours,Never,Night before,Sometimes,Very confident,Frequently,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Frequently,4+ hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+4+ hours,6–8 hours,Before exams,Never,Difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Usually,1 week before,Sometimes,Neutral,Never,Needs Time Management
+<1 hour,5–6 hours,Rarely,Often,Very easily,Sometimes,4+ hours,Usually,1 week before,Sometimes,Very confident,Never,Easily Distracted
+1–2 hours,<5 hours,Daily,Never,Difficult,Rarely,1–2 hours,Always,A few days before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,4+ hours,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+4+ hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Always,A few days before,Usually,Confident,Never,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,<1 hour,Always,1 week before,Always,Confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Rarely,Often,Sometimes,Never,2–4 hours,Never,Night before,Rarely,Neutral,Rarely,Last-Minute Learner
+2–4 hours,<5 hours,Before exams,Often,Very difficult,Sometimes,2–4 hours,Sometimes,Night before,Usually,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Sometimes,4+ hours,Usually,1 week before,Rarely,Confident,Frequently,Easily Distracted
+2–4 hours,8+ hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Never,Night before,Rarely,Confident,Rarely,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Often,Difficult,Never,2–4 hours,Never,A few days before,Usually,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Very easily,Rarely,1–2 hours,Always,Weeks before,Always,Neutral,Frequently,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Often,Difficult,Never,4+ hours,Sometimes,A few days before,Rarely,Very confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Rarely,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Never,Sometimes,Sometimes,1–2 hours,Never,Night before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,8+ hours,Daily,Sometimes,Very difficult,Sometimes,2–4 hours,Always,Weeks before,Rarely,Neutral,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Never,1–2 hours,Always,1 week before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Always,Difficult,Rarely,4+ hours,Sometimes,A few days before,Rarely,Very confident,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Very difficult,Sometimes,4+ hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Before exams,Always,Very difficult,Frequently,4+ hours,Never,A few days before,Always,Neutral,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Sometimes,Difficult,Rarely,2–4 hours,Usually,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Sometimes,Sometimes,Frequently,<1 hour,Never,A few days before,Usually,Very confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Sometimes,Rarely,1–2 hours,Sometimes,A few days before,Rarely,Neutral,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Very easily,Rarely,<1 hour,Usually,Weeks before,Sometimes,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,2–4 hours,Usually,1 week before,Always,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Rarely,2–4 hours,Sometimes,Weeks before,Sometimes,Very confident,Rarely,Needs Time Management
+1–2 hours,<5 hours,Rarely,Never,Difficult,Frequently,2–4 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Always,Difficult,Frequently,<1 hour,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Sometimes,1 week before,Usually,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Rarely,Often,Sometimes,Frequently,2–4 hours,Usually,1 week before,Usually,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Sometimes,A few days before,Usually,Confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Rarely,Often,Sometimes,Rarely,4+ hours,Sometimes,A few days before,Usually,Very confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Daily,Often,Sometimes,Never,1–2 hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Never,A few days before,Rarely,Confident,Never,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Often,Very difficult,Rarely,2–4 hours,Sometimes,1 week before,Sometimes,Very confident,Rarely,Needs Time Management
+2–4 hours,8+ hours,Before exams,Never,Very easily,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Very confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Very difficult,Frequently,4+ hours,Never,Night before,Sometimes,Not confident,Never,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,1–2 hours,Always,1 week before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Often,Very easily,Frequently,4+ hours,Always,1 week before,Always,Neutral,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,<1 hour,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Daily,Never,Very difficult,Sometimes,4+ hours,Usually,A few days before,Always,Not confident,Never,Consistent Learner
+4+ hours,8+ hours,Before exams,Always,Sometimes,Rarely,1–2 hours,Sometimes,Weeks before,Sometimes,Not confident,Rarely,Needs Time Management
+1–2 hours,8+ hours,Rarely,Always,Sometimes,Frequently,4+ hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Sometimes,Very difficult,Never,<1 hour,Always,A few days before,Always,Neutral,Never,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Never,1–2 hours,Usually,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+4+ hours,<5 hours,Before exams,Often,Difficult,Sometimes,4+ hours,Never,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Rarely,Often,Difficult,Frequently,1–2 hours,Sometimes,A few days before,Usually,Very confident,Rarely,Last-Minute Learner
+4+ hours,6–8 hours,Rarely,Never,Very difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Usually,1 week before,Rarely,Confident,Rarely,Easily Distracted
+<1 hour,8+ hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Not confident,Never,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Never,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Sometimes,Difficult,Frequently,2–4 hours,Never,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Before exams,Sometimes,Very easily,Frequently,4+ hours,Always,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Not confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Always,Difficult,Sometimes,1–2 hours,Never,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Daily,Never,Difficult,Rarely,<1 hour,Always,1 week before,Always,Not confident,Frequently,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Frequently,1–2 hours,Sometimes,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Always,Difficult,Sometimes,1–2 hours,Never,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+2–4 hours,8+ hours,Before exams,Never,Difficult,Never,1–2 hours,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,1–2 hours,Always,Weeks before,Always,Not confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Sometimes,2–4 hours,Usually,A few days before,Rarely,Very confident,Sometimes,Easily Distracted
+<1 hour,8+ hours,Daily,Often,Very easily,Frequently,2–4 hours,Usually,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Often,Difficult,Never,<1 hour,Sometimes,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Daily,Always,Difficult,Sometimes,2–4 hours,Sometimes,1 week before,Usually,Neutral,Frequently,Needs Time Management
+4+ hours,5–6 hours,Daily,Often,Difficult,Sometimes,<1 hour,Usually,1 week before,Usually,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Frequently,2–4 hours,Sometimes,Night before,Usually,Very confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Never,Very difficult,Never,1–2 hours,Always,1 week before,Usually,Neutral,Never,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Always,Very easily,Never,2–4 hours,Usually,1 week before,Usually,Very confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Sometimes,Very easily,Frequently,2–4 hours,Never,Night before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+4+ hours,6–8 hours,Few times a week,Never,Difficult,Never,<1 hour,Usually,A few days before,Always,Not confident,Never,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Often,Very difficult,Sometimes,4+ hours,Usually,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Daily,Never,Difficult,Sometimes,2–4 hours,Usually,Weeks before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Often,Sometimes,Sometimes,1–2 hours,Never,Night before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Usually,1 week before,Always,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Daily,Never,Sometimes,Frequently,2–4 hours,Usually,1 week before,Usually,Neutral,Sometimes,Easily Distracted
+<1 hour,<5 hours,Before exams,Often,Difficult,Frequently,2–4 hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Usually,A few days before,Usually,Confident,Rarely,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Always,Difficult,Sometimes,1–2 hours,Always,A few days before,Usually,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,2–4 hours,Usually,1 week before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Sometimes,Very difficult,Never,<1 hour,Usually,A few days before,Always,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Sometimes,Rarely,2–4 hours,Never,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Sometimes,Sometimes,Sometimes,4+ hours,Never,Night before,Always,Confident,Sometimes,Last-Minute Learner
+1–2 hours,<5 hours,Before exams,Always,Very easily,Rarely,4+ hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Rarely,4+ hours,Sometimes,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,1–2 hours,Usually,1 week before,Usually,Confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Sometimes,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Difficult,Frequently,2–4 hours,Never,A few days before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Sometimes,<1 hour,Sometimes,1 week before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Always,Very easily,Sometimes,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Easily Distracted
+<1 hour,<5 hours,Rarely,Often,Very easily,Frequently,4+ hours,Never,1 week before,Always,Confident,Rarely,Easily Distracted
+<1 hour,6–8 hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Always,1 week before,Usually,Not confident,Never,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Sometimes,Sometimes,Rarely,1–2 hours,Never,1 week before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Never,Night before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,<5 hours,Few times a week,Often,Very easily,Sometimes,4+ hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Never,Very difficult,Rarely,1–2 hours,Usually,1 week before,Always,Very confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Rarely,1–2 hours,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Sometimes,Difficult,Sometimes,1–2 hours,Sometimes,Night before,Rarely,Neutral,Rarely,Easily Distracted
+4+ hours,8+ hours,Daily,Sometimes,Very difficult,Sometimes,4+ hours,Always,A few days before,Usually,Not confident,Rarely,Consistent Learner
+4+ hours,5–6 hours,Daily,Never,Very easily,Sometimes,2–4 hours,Sometimes,Weeks before,Always,Confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Sometimes,Difficult,Rarely,4+ hours,Never,Night before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Sometimes,Sometimes,Sometimes,4+ hours,Always,1 week before,Rarely,Very confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Often,Sometimes,Frequently,4+ hours,Usually,A few days before,Sometimes,Very confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Often,Very easily,Frequently,4+ hours,Usually,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Daily,Sometimes,Very difficult,Never,1–2 hours,Usually,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Rarely,Needs Time Management
+<1 hour,5–6 hours,Before exams,Often,Very easily,Frequently,4+ hours,Usually,1 week before,Rarely,Confident,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Sometimes,Very easily,Sometimes,2–4 hours,Never,1 week before,Sometimes,Very confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,1–2 hours,Sometimes,Night before,Usually,Confident,Sometimes,Last-Minute Learner
+<1 hour,8+ hours,Few times a week,Often,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Sometimes,Sometimes,Frequently,4+ hours,Never,A few days before,Sometimes,Very confident,Never,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Never,<1 hour,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Usually,A few days before,Sometimes,Not confident,Sometimes,Needs Time Management
+<1 hour,<5 hours,Before exams,Often,Sometimes,Rarely,1–2 hours,Always,Night before,Sometimes,Not confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Sometimes,Sometimes,1–2 hours,Always,Weeks before,Sometimes,Very confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Rarely,Not confident,Rarely,Last-Minute Learner
+1–2 hours,8+ hours,Daily,Sometimes,Difficult,Sometimes,1–2 hours,Never,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Very easily,Frequently,4+ hours,Usually,Weeks before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Usually,1 week before,Sometimes,Confident,Frequently,Easily Distracted
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Sometimes,4+ hours,Sometimes,1 week before,Usually,Neutral,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Never,1 week before,Sometimes,Very confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Always,A few days before,Sometimes,Very confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Often,Difficult,Frequently,2–4 hours,Never,1 week before,Rarely,Neutral,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Usually,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Sometimes,Night before,Usually,Confident,Frequently,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Often,Very easily,Rarely,4+ hours,Sometimes,A few days before,Always,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Never,Difficult,Never,<1 hour,Always,1 week before,Sometimes,Not confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Always,Very easily,Frequently,2–4 hours,Usually,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Always,Weeks before,Usually,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Very easily,Frequently,4+ hours,Never,Night before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Frequently,2–4 hours,Never,Night before,Sometimes,Not confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Sometimes,<1 hour,Sometimes,Weeks before,Rarely,Not confident,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Always,Neutral,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Never,Difficult,Never,<1 hour,Always,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Often,Difficult,Never,4+ hours,Never,A few days before,Sometimes,Very confident,Frequently,Last-Minute Learner
+4+ hours,5–6 hours,Few times a week,Always,Very easily,Sometimes,<1 hour,Always,A few days before,Sometimes,Very confident,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+<1 hour,8+ hours,Few times a week,Often,Very easily,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Rarely,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Sometimes,Difficult,Rarely,1–2 hours,Sometimes,A few days before,Usually,Very confident,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Very easily,Frequently,1–2 hours,Usually,A few days before,Usually,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Sometimes,1 week before,Rarely,Confident,Frequently,Last-Minute Learner
+4+ hours,6–8 hours,Before exams,Often,Very easily,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Before exams,Sometimes,Difficult,Rarely,1–2 hours,Always,1 week before,Always,Not confident,Frequently,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Sometimes,1–2 hours,Never,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Sometimes,Neutral,Frequently,Last-Minute Learner
+<1 hour,<5 hours,Daily,Often,Very easily,Rarely,4+ hours,Usually,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+<1 hour,<5 hours,Few times a week,Never,Very easily,Sometimes,2–4 hours,Usually,1 week before,Sometimes,Not confident,Rarely,Easily Distracted
+4+ hours,6–8 hours,Few times a week,Never,Very difficult,Never,1–2 hours,Always,A few days before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Frequently,4+ hours,Never,1 week before,Always,Confident,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Never,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Very confident,Frequently,Last-Minute Learner
+4+ hours,6–8 hours,Daily,Never,Difficult,Rarely,<1 hour,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Never,Needs Time Management
+<1 hour,<5 hours,Before exams,Always,Sometimes,Sometimes,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,1–2 hours,Sometimes,A few days before,Sometimes,Neutral,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Sometimes,Difficult,Sometimes,2–4 hours,Sometimes,Night before,Usually,Very confident,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Difficult,Rarely,1–2 hours,Sometimes,A few days before,Usually,Neutral,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Difficult,Sometimes,4+ hours,Never,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Often,Difficult,Frequently,<1 hour,Sometimes,Weeks before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Frequently,2–4 hours,Sometimes,Night before,Rarely,Confident,Rarely,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Very easily,Frequently,2–4 hours,Never,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Difficult,Frequently,2–4 hours,Usually,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Usually,Neutral,Sometimes,Needs Time Management
+<1 hour,8+ hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+<1 hour,8+ hours,Rarely,Sometimes,Very easily,Rarely,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Daily,Always,Difficult,Frequently,2–4 hours,Usually,A few days before,Sometimes,Confident,Rarely,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Sometimes,Sometimes,Rarely,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Easily Distracted
+<1 hour,6–8 hours,Rarely,Always,Difficult,Frequently,1–2 hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Often,Difficult,Frequently,1–2 hours,Sometimes,Weeks before,Usually,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Never,Very difficult,Never,1–2 hours,Sometimes,A few days before,Always,Not confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,Night before,Usually,Not confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Daily,Never,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Always,Confident,Rarely,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Sometimes,Very difficult,Never,<1 hour,Always,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+1–2 hours,8+ hours,Daily,Often,Difficult,Sometimes,4+ hours,Usually,Night before,Rarely,Confident,Sometimes,Needs Time Management
+1–2 hours,8+ hours,Few times a week,Always,Difficult,Sometimes,1–2 hours,Sometimes,A few days before,Rarely,Not confident,Never,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,4+ hours,Usually,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+2–4 hours,8+ hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Sometimes,Very difficult,Never,<1 hour,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Sometimes,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Never,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Never,1–2 hours,Usually,Weeks before,Usually,Confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,<1 hour,Sometimes,A few days before,Sometimes,Not confident,Never,Needs Time Management
+<1 hour,8+ hours,Few times a week,Often,Very easily,Frequently,4+ hours,Never,A few days before,Sometimes,Neutral,Never,Easily Distracted
+1–2 hours,8+ hours,Daily,Never,Very difficult,Sometimes,1–2 hours,Usually,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Often,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Rarely,Confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Never,<1 hour,Usually,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,8+ hours,Before exams,Never,Difficult,Sometimes,2–4 hours,Always,A few days before,Always,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Never,Night before,Sometimes,Confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Few times a week,Often,Sometimes,Sometimes,1–2 hours,Sometimes,A few days before,Rarely,Confident,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Sometimes,4+ hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Always,Very easily,Frequently,2–4 hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Frequently,1–2 hours,Never,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Always,Very difficult,Frequently,2–4 hours,Sometimes,1 week before,Usually,Not confident,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Never,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Daily,Always,Sometimes,Rarely,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Often,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Frequently,Needs Time Management
+1–2 hours,<5 hours,Few times a week,Often,Difficult,Never,4+ hours,Never,A few days before,Usually,Confident,Never,Needs Time Management
+2–4 hours,8+ hours,Daily,Never,Very difficult,Never,<1 hour,Usually,1 week before,Always,Very confident,Frequently,Consistent Learner
+1–2 hours,5–6 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Always,1 week before,Always,Not confident,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Before exams,Always,Sometimes,Frequently,4+ hours,Sometimes,Night before,Rarely,Neutral,Rarely,Last-Minute Learner
+1–2 hours,5–6 hours,Daily,Often,Difficult,Frequently,2–4 hours,Never,Weeks before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Never,A few days before,Sometimes,Very confident,Frequently,Easily Distracted
+<1 hour,5–6 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Usually,Not confident,Rarely,Needs Time Management
+4+ hours,6–8 hours,Daily,Often,Very difficult,Sometimes,<1 hour,Sometimes,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+4+ hours,8+ hours,Before exams,Never,Very difficult,Never,<1 hour,Always,Weeks before,Always,Not confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Usually,1 week before,Sometimes,Very confident,Rarely,Needs Time Management
+4+ hours,8+ hours,Few times a week,Never,Difficult,Sometimes,4+ hours,Usually,A few days before,Usually,Not confident,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Sometimes,Sometimes,Frequently,4+ hours,Never,A few days before,Rarely,Very confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Sometimes,Very easily,Frequently,2–4 hours,Usually,1 week before,Usually,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Always,Difficult,Sometimes,2–4 hours,Usually,1 week before,Rarely,Confident,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Sometimes,Very confident,Frequently,Last-Minute Learner
+<1 hour,6–8 hours,Daily,Often,Very easily,Sometimes,4+ hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Sometimes,4+ hours,Usually,Night before,Sometimes,Neutral,Frequently,Easily Distracted
+<1 hour,5–6 hours,Few times a week,Sometimes,Very easily,Frequently,2–4 hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+4+ hours,6–8 hours,Before exams,Always,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+4+ hours,8+ hours,Daily,Never,Very difficult,Rarely,1–2 hours,Usually,Weeks before,Usually,Confident,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Often,Sometimes,Rarely,4+ hours,Sometimes,Night before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Sometimes,<1 hour,Always,Night before,Usually,Neutral,Frequently,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Sometimes,Difficult,Rarely,4+ hours,Usually,Weeks before,Usually,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,2–4 hours,Always,A few days before,Always,Not confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Rarely,Sometimes,Sometimes,Rarely,<1 hour,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Usually,Confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Always,Neutral,Rarely,Needs Time Management
+4+ hours,<5 hours,Few times a week,Sometimes,Very difficult,Never,4+ hours,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+<1 hour,5–6 hours,Before exams,Sometimes,Difficult,Sometimes,2–4 hours,Usually,A few days before,Usually,Very confident,Never,Needs Time Management
+2–4 hours,5–6 hours,Daily,Often,Sometimes,Rarely,1–2 hours,Always,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Daily,Never,Difficult,Frequently,4+ hours,Sometimes,1 week before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Frequently,<1 hour,Sometimes,Night before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Very difficult,Never,4+ hours,Sometimes,A few days before,Usually,Neutral,Frequently,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Frequently,4+ hours,Never,A few days before,Usually,Confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Usually,A few days before,Always,Confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Daily,Never,Very difficult,Rarely,<1 hour,Usually,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,<5 hours,Before exams,Always,Difficult,Frequently,1–2 hours,Never,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Always,Very easily,Frequently,2–4 hours,Sometimes,A few days before,Usually,Confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Usually,Not confident,Rarely,Needs Time Management
+<1 hour,6–8 hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Usually,A few days before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,<5 hours,Before exams,Always,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Never,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Very easily,Never,1–2 hours,Sometimes,1 week before,Always,Not confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Daily,Often,Difficult,Never,2–4 hours,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Before exams,Sometimes,Very easily,Frequently,2–4 hours,Sometimes,Night before,Sometimes,Confident,Rarely,Easily Distracted
+2–4 hours,8+ hours,Daily,Never,Very difficult,Never,2–4 hours,Always,Night before,Always,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Difficult,Frequently,2–4 hours,Usually,Weeks before,Always,Neutral,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Sometimes,Very easily,Never,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,1 week before,Rarely,Very confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Always,Very difficult,Sometimes,<1 hour,Usually,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+<1 hour,5–6 hours,Rarely,Always,Sometimes,Frequently,4+ hours,Always,Night before,Rarely,Very confident,Rarely,Easily Distracted
+4+ hours,6–8 hours,Daily,Often,Sometimes,Sometimes,2–4 hours,Never,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,8+ hours,Rarely,Often,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Never,Night before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Never,Sometimes,Sometimes,1–2 hours,Never,A few days before,Rarely,Confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Often,Difficult,Sometimes,2–4 hours,Never,A few days before,Rarely,Not confident,Sometimes,Last-Minute Learner
+<1 hour,8+ hours,Rarely,Often,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Usually,Very confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,4+ hours,Always,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Never,Difficult,Never,1–2 hours,Usually,Weeks before,Usually,Very confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Daily,Often,Very difficult,Never,<1 hour,Usually,Weeks before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Never,Very difficult,Never,4+ hours,Sometimes,1 week before,Always,Confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Never,1–2 hours,Always,Weeks before,Usually,Very confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Daily,Sometimes,Difficult,Never,1–2 hours,Always,1 week before,Sometimes,Neutral,Rarely,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Often,Difficult,Rarely,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Always,Very easily,Frequently,1–2 hours,Never,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,<5 hours,Few times a week,Never,Very difficult,Never,1–2 hours,Always,1 week before,Usually,Confident,Never,Consistent Learner
+<1 hour,8+ hours,Before exams,Always,Difficult,Sometimes,4+ hours,Never,Night before,Usually,Very confident,Never,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Very easily,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+2–4 hours,8+ hours,Daily,Never,Sometimes,Never,1–2 hours,Usually,1 week before,Sometimes,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Sometimes,Very easily,Frequently,4+ hours,Sometimes,Weeks before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,Weeks before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,1–2 hours,Never,1 week before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Often,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Usually,Neutral,Rarely,Easily Distracted
+<1 hour,8+ hours,Rarely,Always,Very difficult,Frequently,2–4 hours,Sometimes,Night before,Usually,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Sometimes,Sometimes,Frequently,<1 hour,Always,A few days before,Rarely,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Confident,Never,Consistent Learner
+1–2 hours,8+ hours,Rarely,Often,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Rarely,Neutral,Frequently,Easily Distracted
+<1 hour,6–8 hours,Rarely,Often,Sometimes,Sometimes,4+ hours,Usually,Night before,Sometimes,Neutral,Rarely,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Often,Difficult,Frequently,2–4 hours,Never,A few days before,Rarely,Confident,Rarely,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+4+ hours,5–6 hours,Rarely,Sometimes,Sometimes,Frequently,1–2 hours,Never,A few days before,Rarely,Neutral,Rarely,Needs Time Management
+<1 hour,5–6 hours,Daily,Sometimes,Sometimes,Sometimes,4+ hours,Usually,1 week before,Sometimes,Confident,Rarely,Easily Distracted
+1–2 hours,8+ hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Usually,Very confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Always,Difficult,Frequently,4+ hours,Never,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Not confident,Rarely,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Frequently,2–4 hours,Sometimes,1 week before,Sometimes,Very confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Sometimes,Very easily,Sometimes,4+ hours,Usually,Weeks before,Rarely,Confident,Frequently,Easily Distracted
+4+ hours,5–6 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,1 week before,Rarely,Not confident,Rarely,Easily Distracted
+2–4 hours,5–6 hours,Daily,Sometimes,Very difficult,Never,<1 hour,Never,1 week before,Always,Confident,Frequently,Consistent Learner
+2–4 hours,5–6 hours,Few times a week,Sometimes,Difficult,Sometimes,4+ hours,Sometimes,Night before,Sometimes,Neutral,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Sometimes,Difficult,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Always,Sometimes,Rarely,1–2 hours,Always,Night before,Sometimes,Confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Always,Very easily,Frequently,1–2 hours,Never,1 week before,Always,Very confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Often,Very easily,Sometimes,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Often,Difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Neutral,Never,Consistent Learner
+2–4 hours,5–6 hours,Rarely,Always,Sometimes,Sometimes,1–2 hours,Sometimes,1 week before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Daily,Often,Difficult,Never,1–2 hours,Always,Night before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Often,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Very confident,Rarely,Needs Time Management
+<1 hour,8+ hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Sometimes,Very confident,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Before exams,Never,Sometimes,Frequently,1–2 hours,Sometimes,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Not confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Sometimes,Very easily,Frequently,2–4 hours,Never,Weeks before,Usually,Neutral,Sometimes,Easily Distracted
+2–4 hours,<5 hours,Rarely,Never,Difficult,Never,2–4 hours,Never,A few days before,Rarely,Very confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Usually,Not confident,Sometimes,Needs Time Management
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Rarely,2–4 hours,Never,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Few times a week,Sometimes,Sometimes,Frequently,4+ hours,Always,Weeks before,Sometimes,Neutral,Rarely,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Usually,A few days before,Rarely,Very confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Sometimes,Very easily,Frequently,1–2 hours,Sometimes,Night before,Rarely,Neutral,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Daily,Never,Very difficult,Never,2–4 hours,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,<5 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Usually,Weeks before,Usually,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Always,Difficult,Rarely,2–4 hours,Usually,1 week before,Rarely,Not confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Sometimes,Weeks before,Usually,Very confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Often,Difficult,Sometimes,2–4 hours,Never,Night before,Usually,Very confident,Rarely,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Always,Sometimes,Sometimes,1–2 hours,Never,A few days before,Usually,Neutral,Sometimes,Needs Time Management
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Never,<1 hour,Always,1 week before,Usually,Confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Daily,Never,Very difficult,Rarely,<1 hour,Never,Weeks before,Always,Confident,Rarely,Consistent Learner
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Sometimes,2–4 hours,Usually,A few days before,Usually,Very confident,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Rarely,Neutral,Rarely,Easily Distracted
+1–2 hours,8+ hours,Daily,Never,Difficult,Never,2–4 hours,Usually,Weeks before,Sometimes,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Never,1–2 hours,Usually,Weeks before,Always,Neutral,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Never,A few days before,Sometimes,Neutral,Frequently,Easily Distracted
+2–4 hours,5–6 hours,Daily,Sometimes,Difficult,Rarely,2–4 hours,Sometimes,A few days before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Always,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Frequently,1–2 hours,Never,Night before,Sometimes,Not confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Daily,Often,Very difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Not confident,Never,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Sometimes,Very difficult,Rarely,2–4 hours,Always,A few days before,Always,Confident,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Rarely,Always,Sometimes,Rarely,4+ hours,Sometimes,Night before,Sometimes,Confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Sometimes,A few days before,Usually,Confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Never,Sometimes,Sometimes,2–4 hours,Sometimes,Weeks before,Usually,Not confident,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Never,A few days before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Rarely,2–4 hours,Never,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Never,1 week before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Sometimes,Very easily,Frequently,4+ hours,Usually,Night before,Rarely,Confident,Never,Easily Distracted
+2–4 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,<1 hour,Usually,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,4+ hours,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Always,Difficult,Frequently,2–4 hours,Usually,A few days before,Rarely,Very confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Frequently,4+ hours,Sometimes,Night before,Sometimes,Very confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Rarely,Always,Difficult,Sometimes,2–4 hours,Never,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Never,4+ hours,Usually,Night before,Rarely,Not confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Always,Very difficult,Never,2–4 hours,Always,1 week before,Always,Very confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Rarely,2–4 hours,Usually,Night before,Sometimes,Neutral,Frequently,Needs Time Management
+2–4 hours,8+ hours,Few times a week,Often,Very difficult,Never,1–2 hours,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Usually,Not confident,Rarely,Needs Time Management
+2–4 hours,<5 hours,Daily,Sometimes,Very difficult,Never,1–2 hours,Always,Weeks before,Usually,Not confident,Sometimes,Consistent Learner
+4+ hours,6–8 hours,Daily,Sometimes,Difficult,Rarely,1–2 hours,Always,1 week before,Usually,Not confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Never,Very difficult,Frequently,<1 hour,Usually,Weeks before,Usually,Neutral,Sometimes,Consistent Learner
+2–4 hours,<5 hours,Daily,Often,Very easily,Frequently,2–4 hours,Sometimes,1 week before,Rarely,Not confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Always,Neutral,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Never,Difficult,Frequently,1–2 hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Always,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Rarely,4+ hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Always,Very easily,Sometimes,4+ hours,Never,A few days before,Usually,Very confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,1–2 hours,Always,1 week before,Always,Not confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+4+ hours,8+ hours,Daily,Sometimes,Very difficult,Never,2–4 hours,Sometimes,1 week before,Usually,Confident,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Before exams,Often,Sometimes,Sometimes,1–2 hours,Sometimes,Night before,Sometimes,Confident,Frequently,Last-Minute Learner
+4+ hours,8+ hours,Daily,Sometimes,Very difficult,Never,<1 hour,Usually,Weeks before,Always,Confident,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Always,Confident,Sometimes,Last-Minute Learner
+1–2 hours,<5 hours,Before exams,Sometimes,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,4+ hours,Sometimes,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Before exams,Never,Very difficult,Never,<1 hour,Always,1 week before,Always,Not confident,Rarely,Consistent Learner
+1–2 hours,<5 hours,Few times a week,Sometimes,Very easily,Frequently,2–4 hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,<5 hours,Before exams,Always,Difficult,Rarely,2–4 hours,Never,Night before,Rarely,Neutral,Rarely,Last-Minute Learner
+4+ hours,5–6 hours,Few times a week,Often,Difficult,Rarely,<1 hour,Sometimes,A few days before,Sometimes,Not confident,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Usually,Night before,Sometimes,Very confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Always,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Rarely,Always,Very easily,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+4+ hours,5–6 hours,Daily,Often,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Sometimes,Very difficult,Frequently,2–4 hours,Usually,1 week before,Rarely,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Frequently,1–2 hours,Sometimes,Night before,Sometimes,Not confident,Rarely,Last-Minute Learner
+2–4 hours,8+ hours,Before exams,Never,Very difficult,Rarely,<1 hour,Sometimes,A few days before,Always,Confident,Never,Consistent Learner
+4+ hours,5–6 hours,Few times a week,Often,Sometimes,Rarely,1–2 hours,Never,Night before,Sometimes,Very confident,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Rarely,Always,Difficult,Frequently,4+ hours,Usually,Night before,Sometimes,Confident,Rarely,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Often,Very easily,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Neutral,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Always,Very easily,Never,2–4 hours,Sometimes,1 week before,Usually,Very confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Few times a week,Always,Very easily,Sometimes,1–2 hours,Never,1 week before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,8+ hours,Few times a week,Never,Sometimes,Never,<1 hour,Usually,1 week before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Rarely,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Never,Sometimes,Sometimes,1–2 hours,Usually,Night before,Always,Neutral,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Before exams,Often,Very easily,Frequently,4+ hours,Never,A few days before,Sometimes,Not confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Never,Difficult,Rarely,<1 hour,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Difficult,Sometimes,4+ hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,<5 hours,Rarely,Often,Difficult,Rarely,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Always,1 week before,Usually,Confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Before exams,Always,Difficult,Rarely,1–2 hours,Sometimes,A few days before,Rarely,Not confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Always,Difficult,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Frequently,Needs Time Management
+<1 hour,6–8 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Sometimes,Neutral,Never,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Usually,Night before,Usually,Neutral,Frequently,Easily Distracted
+4+ hours,6–8 hours,Few times a week,Sometimes,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,<5 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Never,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,<5 hours,Rarely,Always,Sometimes,Rarely,1–2 hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,<5 hours,Before exams,Always,Very difficult,Sometimes,4+ hours,Never,A few days before,Usually,Very confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Never,Night before,Usually,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Always,Sometimes,Frequently,1–2 hours,Usually,1 week before,Rarely,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Usually,Night before,Usually,Neutral,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,4+ hours,Usually,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Never,Night before,Usually,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Always,Night before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Sometimes,Very difficult,Sometimes,1–2 hours,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Difficult,Sometimes,4+ hours,Never,1 week before,Usually,Neutral,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Always,Very easily,Sometimes,1–2 hours,Sometimes,Night before,Rarely,Neutral,Rarely,Last-Minute Learner
+4+ hours,6–8 hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,1 week before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,8+ hours,Daily,Often,Sometimes,Rarely,4+ hours,Never,1 week before,Rarely,Neutral,Frequently,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Often,Very difficult,Never,2–4 hours,Sometimes,1 week before,Usually,Neutral,Never,Needs Time Management
+2–4 hours,<5 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Never,Night before,Usually,Confident,Frequently,Last-Minute Learner
+<1 hour,<5 hours,Rarely,Always,Sometimes,Rarely,1–2 hours,Never,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Rarely,Sometimes,Difficult,Sometimes,1–2 hours,Never,A few days before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Always,Very difficult,Frequently,2–4 hours,Sometimes,A few days before,Always,Not confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Daily,Always,Very difficult,Sometimes,1–2 hours,Never,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Never,Night before,Sometimes,Confident,Rarely,Needs Time Management
+<1 hour,6–8 hours,Few times a week,Never,Sometimes,Never,1–2 hours,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,1–2 hours,Never,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Never,A few days before,Rarely,Neutral,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,Night before,Sometimes,Not confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Usually,Night before,Rarely,Confident,Rarely,Last-Minute Learner
+<1 hour,8+ hours,Before exams,Sometimes,Difficult,Frequently,4+ hours,Sometimes,1 week before,Usually,Neutral,Frequently,Easily Distracted
+<1 hour,6–8 hours,Few times a week,Often,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Usually,Very confident,Sometimes,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Sometimes,Sometimes,1–2 hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Daily,Always,Difficult,Sometimes,2–4 hours,Sometimes,Night before,Usually,Very confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Never,Difficult,Never,1–2 hours,Always,Weeks before,Usually,Not confident,Frequently,Consistent Learner
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Sometimes,Rarely,<1 hour,Always,1 week before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,5–6 hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Never,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Difficult,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Very confident,Rarely,Easily Distracted
+2–4 hours,8+ hours,Daily,Never,Difficult,Sometimes,2–4 hours,Never,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Sometimes,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Daily,Sometimes,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Always,Difficult,Never,2–4 hours,Sometimes,A few days before,Sometimes,Not confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,1–2 hours,Usually,1 week before,Usually,Confident,Rarely,Consistent Learner
+1–2 hours,8+ hours,Rarely,Sometimes,Very easily,Rarely,2–4 hours,Sometimes,1 week before,Sometimes,Very confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,<1 hour,Usually,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Few times a week,Always,Very easily,Frequently,1–2 hours,Never,1 week before,Always,Not confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Always,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,4+ hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Sometimes,1 week before,Rarely,Neutral,Never,Easily Distracted
+1–2 hours,6–8 hours,Daily,Never,Very easily,Sometimes,2–4 hours,Usually,1 week before,Sometimes,Neutral,Rarely,Easily Distracted
+<1 hour,6–8 hours,Few times a week,Often,Difficult,Frequently,4+ hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Often,Difficult,Rarely,2–4 hours,Sometimes,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Daily,Never,Difficult,Frequently,<1 hour,Always,A few days before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Never,Very difficult,Sometimes,<1 hour,Sometimes,Weeks before,Always,Not confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Usually,Weeks before,Always,Neutral,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Daily,Often,Sometimes,Sometimes,1–2 hours,Never,1 week before,Rarely,Confident,Frequently,Easily Distracted
+1–2 hours,8+ hours,Daily,Always,Very easily,Sometimes,1–2 hours,Sometimes,Night before,Sometimes,Neutral,Rarely,Easily Distracted
+<1 hour,8+ hours,Daily,Sometimes,Sometimes,Never,1–2 hours,Always,1 week before,Always,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,8+ hours,Before exams,Never,Difficult,Never,<1 hour,Usually,1 week before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Always,1 week before,Rarely,Not confident,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Before exams,Never,Very easily,Frequently,2–4 hours,Never,Weeks before,Sometimes,Neutral,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Never,Very easily,Rarely,1–2 hours,Sometimes,Weeks before,Usually,Not confident,Rarely,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Always,Difficult,Never,1–2 hours,Usually,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+<1 hour,8+ hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Never,Night before,Rarely,Not confident,Sometimes,Last-Minute Learner
+2–4 hours,<5 hours,Few times a week,Often,Difficult,Frequently,1–2 hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Daily,Often,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Always,Confident,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,1–2 hours,Usually,Weeks before,Usually,Very confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Often,Difficult,Never,2–4 hours,Always,Night before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Never,Difficult,Frequently,2–4 hours,Never,1 week before,Rarely,Confident,Sometimes,Easily Distracted
+<1 hour,6–8 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Never,Night before,Sometimes,Confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Always,Very difficult,Frequently,1–2 hours,Never,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,<5 hours,Daily,Never,Difficult,Never,<1 hour,Always,1 week before,Usually,Confident,Never,Consistent Learner
+2–4 hours,5–6 hours,Rarely,Always,Very easily,Rarely,4+ hours,Never,Night before,Sometimes,Confident,Rarely,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Difficult,Sometimes,4+ hours,Usually,1 week before,Usually,Neutral,Sometimes,Needs Time Management
+4+ hours,5–6 hours,Rarely,Sometimes,Sometimes,Rarely,4+ hours,Sometimes,A few days before,Rarely,Confident,Never,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Never,1–2 hours,Always,A few days before,Rarely,Not confident,Sometimes,Needs Time Management
+<1 hour,8+ hours,Before exams,Often,Very easily,Frequently,4+ hours,Never,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Usually,1 week before,Sometimes,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Sometimes,Sometimes,Sometimes,<1 hour,Never,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,<5 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Easily Distracted
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Never,2–4 hours,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Never,Very difficult,Sometimes,<1 hour,Never,Night before,Always,Very confident,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Few times a week,Never,Sometimes,Never,<1 hour,Always,A few days before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Never,2–4 hours,Always,A few days before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,2–4 hours,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Daily,Never,Difficult,Rarely,2–4 hours,Usually,Weeks before,Sometimes,Not confident,Rarely,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Always,Difficult,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Confident,Never,Easily Distracted
+4+ hours,6–8 hours,Daily,Never,Difficult,Rarely,1–2 hours,Always,Night before,Usually,Neutral,Never,Consistent Learner
+2–4 hours,5–6 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Always,Confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Rarely,Always,Very easily,Sometimes,4+ hours,Usually,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Never,1–2 hours,Never,1 week before,Usually,Neutral,Frequently,Needs Time Management
+<1 hour,8+ hours,Before exams,Sometimes,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Usually,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,2–4 hours,Usually,Weeks before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Daily,Never,Very difficult,Never,<1 hour,Never,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Never,Very difficult,Never,<1 hour,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Never,Difficult,Never,<1 hour,Always,Weeks before,Always,Confident,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Few times a week,Often,Sometimes,Sometimes,1–2 hours,Sometimes,Night before,Usually,Very confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,<1 hour,Always,1 week before,Always,Confident,Rarely,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Never,Difficult,Rarely,<1 hour,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+4+ hours,8+ hours,Before exams,Often,Very difficult,Rarely,<1 hour,Sometimes,Weeks before,Rarely,Neutral,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Before exams,Never,Sometimes,Never,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,<1 hour,Always,Weeks before,Sometimes,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Sometimes,4+ hours,Sometimes,Weeks before,Usually,Neutral,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Daily,Always,Sometimes,Rarely,2–4 hours,Usually,Weeks before,Usually,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Often,Difficult,Frequently,2–4 hours,Usually,Night before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Sometimes,A few days before,Always,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+4+ hours,6–8 hours,Before exams,Never,Very easily,Frequently,4+ hours,Always,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Difficult,Never,<1 hour,Always,Weeks before,Usually,Neutral,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Usually,Neutral,Rarely,Last-Minute Learner
+4+ hours,6–8 hours,Few times a week,Sometimes,Difficult,Never,2–4 hours,Sometimes,Weeks before,Sometimes,Neutral,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Daily,Sometimes,Sometimes,Sometimes,1–2 hours,Never,1 week before,Sometimes,Confident,Never,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Always,A few days before,Sometimes,Very confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Difficult,Frequently,4+ hours,Usually,A few days before,Always,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,1–2 hours,Sometimes,Weeks before,Usually,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Never,Difficult,Never,2–4 hours,Always,A few days before,Sometimes,Neutral,Sometimes,Consistent Learner
+4+ hours,5–6 hours,Few times a week,Often,Difficult,Never,1–2 hours,Sometimes,A few days before,Usually,Not confident,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Before exams,Always,Very difficult,Rarely,4+ hours,Never,A few days before,Sometimes,Very confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Before exams,Sometimes,Very easily,Frequently,2–4 hours,Never,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Always,Difficult,Sometimes,<1 hour,Sometimes,Night before,Usually,Confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Never,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Few times a week,Always,Very easily,Frequently,4+ hours,Always,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Daily,Sometimes,Difficult,Rarely,2–4 hours,Usually,Weeks before,Always,Not confident,Rarely,Consistent Learner
+1–2 hours,<5 hours,Rarely,Sometimes,Sometimes,Sometimes,1–2 hours,Sometimes,Weeks before,Sometimes,Neutral,Frequently,Needs Time Management
+<1 hour,8+ hours,Before exams,Always,Very easily,Frequently,4+ hours,Never,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+<1 hour,5–6 hours,Rarely,Sometimes,Sometimes,Rarely,2–4 hours,Usually,A few days before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Always,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Usually,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,8+ hours,Daily,Often,Very easily,Never,<1 hour,Sometimes,A few days before,Always,Very confident,Never,Consistent Learner
+4+ hours,5–6 hours,Before exams,Always,Very difficult,Sometimes,1–2 hours,Never,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+<1 hour,5–6 hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Difficult,Never,<1 hour,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Few times a week,Always,Sometimes,Sometimes,<1 hour,Sometimes,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Sometimes,Sometimes,Rarely,<1 hour,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+<1 hour,8+ hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,<5 hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,2–4 hours,Always,1 week before,Always,Not confident,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Difficult,Sometimes,1–2 hours,Sometimes,Night before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Rarely,<1 hour,Never,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,1–2 hours,Usually,A few days before,Usually,Neutral,Rarely,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Weeks before,Sometimes,Neutral,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Sometimes,Not confident,Rarely,Easily Distracted
+4+ hours,5–6 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+<1 hour,6–8 hours,Rarely,Sometimes,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Daily,Always,Difficult,Sometimes,<1 hour,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,Weeks before,Rarely,Confident,Never,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Not confident,Never,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Never,Very easily,Frequently,2–4 hours,Never,Weeks before,Sometimes,Not confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Rarely,Often,Very difficult,Sometimes,2–4 hours,Usually,1 week before,Usually,Neutral,Sometimes,Needs Time Management
+2–4 hours,8+ hours,Before exams,Sometimes,Very difficult,Rarely,<1 hour,Usually,1 week before,Always,Not confident,Never,Consistent Learner
+2–4 hours,<5 hours,Rarely,Sometimes,Very difficult,Sometimes,1–2 hours,Usually,A few days before,Sometimes,Very confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Often,Difficult,Rarely,1–2 hours,Never,Night before,Sometimes,Very confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Daily,Always,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Before exams,Always,Very easily,Sometimes,1–2 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Always,Difficult,Sometimes,2–4 hours,Usually,1 week before,Rarely,Confident,Rarely,Needs Time Management
+<1 hour,6–8 hours,Rarely,Always,Difficult,Frequently,2–4 hours,Sometimes,Night before,Sometimes,Neutral,Frequently,Last-Minute Learner
+1–2 hours,8+ hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Sometimes,Weeks before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Few times a week,Sometimes,Very difficult,Rarely,1–2 hours,Always,1 week before,Usually,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Never,<1 hour,Usually,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Sometimes,1 week before,Always,Neutral,Never,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Frequently,<1 hour,Sometimes,A few days before,Always,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+1–2 hours,8+ hours,Daily,Sometimes,Very difficult,Sometimes,1–2 hours,Always,Weeks before,Always,Neutral,Never,Consistent Learner
+4+ hours,5–6 hours,Few times a week,Often,Difficult,Frequently,2–4 hours,Sometimes,1 week before,Rarely,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Never,Very difficult,Never,<1 hour,Usually,A few days before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,5–6 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,2–4 hours,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Sometimes,Difficult,Sometimes,1–2 hours,Never,1 week before,Usually,Confident,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,2–4 hours,Never,1 week before,Usually,Not confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Always,Difficult,Sometimes,1–2 hours,Never,A few days before,Rarely,Not confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Frequently,2–4 hours,Sometimes,A few days before,Always,Not confident,Sometimes,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Often,Sometimes,Frequently,1–2 hours,Sometimes,A few days before,Usually,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Rarely,4+ hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Difficult,Sometimes,1–2 hours,Sometimes,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Rarely,Often,Very easily,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Confident,Frequently,Last-Minute Learner
+<1 hour,<5 hours,Few times a week,Sometimes,Difficult,Sometimes,2–4 hours,Always,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Sometimes,Sometimes,2–4 hours,Always,A few days before,Usually,Not confident,Never,Consistent Learner
+1–2 hours,8+ hours,Before exams,Often,Very easily,Sometimes,4+ hours,Sometimes,Night before,Usually,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Sometimes,<1 hour,Sometimes,Night before,Rarely,Neutral,Rarely,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Never,1 week before,Sometimes,Confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Often,Very difficult,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Before exams,Often,Difficult,Sometimes,<1 hour,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+<1 hour,5–6 hours,Before exams,Sometimes,Very easily,Frequently,4+ hours,Sometimes,Night before,Always,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Daily,Never,Difficult,Never,1–2 hours,Always,Weeks before,Always,Very confident,Never,Consistent Learner
+1–2 hours,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Never,A few days before,Usually,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Very easily,Frequently,4+ hours,Usually,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Sometimes,A few days before,Sometimes,Neutral,Never,Needs Time Management
+4+ hours,6–8 hours,Few times a week,Sometimes,Very difficult,Sometimes,1–2 hours,Always,Weeks before,Sometimes,Not confident,Never,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Sometimes,Very difficult,Rarely,<1 hour,Always,1 week before,Sometimes,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Always,Difficult,Frequently,4+ hours,Never,A few days before,Rarely,Very confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Always,Sometimes,Rarely,4+ hours,Sometimes,A few days before,Rarely,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Always,Very easily,Frequently,4+ hours,Usually,Weeks before,Rarely,Very confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Never,Very difficult,Never,1–2 hours,Always,Weeks before,Usually,Not confident,Never,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Sometimes,1–2 hours,Always,Weeks before,Sometimes,Neutral,Never,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+4+ hours,5–6 hours,Daily,Never,Difficult,Never,1–2 hours,Always,A few days before,Always,Neutral,Rarely,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Always,Sometimes,Frequently,2–4 hours,Usually,A few days before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,<1 hour,Always,Weeks before,Always,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,2–4 hours,Always,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+1–2 hours,<5 hours,Rarely,Always,Very easily,Frequently,4+ hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Rarely,Always,Very easily,Frequently,1–2 hours,Usually,1 week before,Usually,Neutral,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Daily,Often,Difficult,Sometimes,2–4 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Sometimes,Sometimes,Sometimes,2–4 hours,Never,1 week before,Sometimes,Very confident,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Often,Difficult,Frequently,4+ hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Often,Difficult,Frequently,4+ hours,Always,Night before,Rarely,Very confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Never,Sometimes,Frequently,1–2 hours,Never,A few days before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Sometimes,Very difficult,Rarely,1–2 hours,Sometimes,A few days before,Sometimes,Very confident,Rarely,Needs Time Management
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Frequently,1–2 hours,Sometimes,A few days before,Rarely,Confident,Rarely,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,Weeks before,Rarely,Confident,Never,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Frequently,4+ hours,Sometimes,Night before,Usually,Not confident,Frequently,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Never,<1 hour,Usually,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Few times a week,Often,Sometimes,Frequently,2–4 hours,Usually,Night before,Always,Confident,Never,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,4+ hours,Sometimes,Night before,Sometimes,Confident,Rarely,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Never,Sometimes,Never,1–2 hours,Usually,1 week before,Always,Neutral,Never,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,1–2 hours,Usually,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,<5 hours,Few times a week,Often,Very easily,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Rarely,<1 hour,Sometimes,A few days before,Rarely,Confident,Frequently,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,<1 hour,Usually,1 week before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,8+ hours,Before exams,Sometimes,Sometimes,Sometimes,1–2 hours,Sometimes,A few days before,Rarely,Neutral,Sometimes,Easily Distracted
+2–4 hours,<5 hours,Daily,Sometimes,Very difficult,Never,2–4 hours,Usually,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+<1 hour,8+ hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,Weeks before,Rarely,Confident,Rarely,Consistent Learner
+4+ hours,5–6 hours,Rarely,Often,Sometimes,Never,1–2 hours,Usually,Night before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Frequently,2–4 hours,Never,A few days before,Sometimes,Neutral,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Very easily,Rarely,2–4 hours,Sometimes,Weeks before,Sometimes,Neutral,Sometimes,Easily Distracted
+4+ hours,6–8 hours,Few times a week,Always,Sometimes,Rarely,1–2 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Few times a week,Always,Difficult,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Frequently,2–4 hours,Sometimes,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,8+ hours,Few times a week,Never,Very easily,Rarely,2–4 hours,Never,Night before,Rarely,Confident,Sometimes,Needs Time Management
+<1 hour,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Never,1 week before,Rarely,Neutral,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,4+ hours,Never,A few days before,Always,Neutral,Rarely,Needs Time Management
+4+ hours,5–6 hours,Few times a week,Often,Difficult,Rarely,2–4 hours,Usually,Weeks before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Always,Very difficult,Sometimes,4+ hours,Never,1 week before,Usually,Neutral,Never,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Always,Weeks before,Sometimes,Confident,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Never,Sometimes,Rarely,2–4 hours,Never,Weeks before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Daily,Often,Difficult,Frequently,2–4 hours,Sometimes,A few days before,Usually,Neutral,Frequently,Needs Time Management
+4+ hours,8+ hours,Few times a week,Never,Very difficult,Never,<1 hour,Always,Weeks before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,<5 hours,Daily,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,2–4 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Rarely,<1 hour,Never,Night before,Usually,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Never,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Often,Very easily,Frequently,1–2 hours,Never,Night before,Rarely,Confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Sometimes,<1 hour,Usually,1 week before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Never,Very difficult,Sometimes,1–2 hours,Sometimes,A few days before,Usually,Not confident,Never,Last-Minute Learner
+1–2 hours,5–6 hours,Rarely,Always,Very easily,Frequently,<1 hour,Never,Night before,Rarely,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Sometimes,Very easily,Rarely,1–2 hours,Sometimes,A few days before,Sometimes,Confident,Never,Needs Time Management
+4+ hours,8+ hours,Few times a week,Never,Sometimes,Never,1–2 hours,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,<5 hours,Before exams,Sometimes,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Rarely,Not confident,Frequently,Easily Distracted
+1–2 hours,5–6 hours,Rarely,Often,Sometimes,Sometimes,1–2 hours,Never,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Sometimes,Rarely,1–2 hours,Usually,1 week before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Sometimes,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Few times a week,Never,Very easily,Frequently,1–2 hours,Usually,1 week before,Sometimes,Very confident,Frequently,Easily Distracted
+<1 hour,6–8 hours,Before exams,Sometimes,Very difficult,Sometimes,1–2 hours,Usually,1 week before,Usually,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Sometimes,2–4 hours,Sometimes,Weeks before,Sometimes,Not confident,Sometimes,Needs Time Management
+2–4 hours,8+ hours,Few times a week,Never,Sometimes,Never,2–4 hours,Always,Weeks before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,5–6 hours,Rarely,Always,Very easily,Frequently,2–4 hours,Usually,Night before,Usually,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,<1 hour,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Never,1 week before,Usually,Neutral,Sometimes,Easily Distracted
+<1 hour,8+ hours,Few times a week,Always,Very easily,Frequently,2–4 hours,Usually,A few days before,Usually,Confident,Sometimes,Easily Distracted
+<1 hour,5–6 hours,Rarely,Often,Very difficult,Sometimes,4+ hours,Sometimes,A few days before,Rarely,Not confident,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Before exams,Sometimes,Sometimes,Sometimes,4+ hours,Sometimes,Weeks before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Never,Night before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Frequently,<1 hour,Usually,Night before,Always,Not confident,Never,Consistent Learner
+<1 hour,6–8 hours,Rarely,Never,Sometimes,Sometimes,4+ hours,Usually,Night before,Rarely,Neutral,Frequently,Last-Minute Learner
+4+ hours,<5 hours,Daily,Never,Very difficult,Rarely,<1 hour,Always,Night before,Always,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Often,Sometimes,Sometimes,4+ hours,Never,1 week before,Usually,Neutral,Never,Needs Time Management
+1–2 hours,5–6 hours,Few times a week,Never,Sometimes,Frequently,2–4 hours,Never,Night before,Sometimes,Very confident,Frequently,Easily Distracted
+4+ hours,8+ hours,Daily,Always,Very difficult,Rarely,2–4 hours,Always,A few days before,Always,Not confident,Never,Consistent Learner
+4+ hours,5–6 hours,Few times a week,Never,Very difficult,Never,1–2 hours,Always,1 week before,Always,Not confident,Never,Consistent Learner
+<1 hour,5–6 hours,Few times a week,Sometimes,Very easily,Frequently,4+ hours,Sometimes,Weeks before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Always,Sometimes,Frequently,1–2 hours,Sometimes,Night before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Always,A few days before,Sometimes,Very confident,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Rarely,Always,Very difficult,Sometimes,4+ hours,Usually,A few days before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Rarely,Often,Difficult,Sometimes,2–4 hours,Never,A few days before,Sometimes,Confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Always,Very easily,Frequently,4+ hours,Sometimes,A few days before,Sometimes,Very confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Difficult,Rarely,1–2 hours,Usually,Night before,Usually,Confident,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Sometimes,Very difficult,Never,2–4 hours,Usually,1 week before,Always,Neutral,Rarely,Consistent Learner
+<1 hour,6–8 hours,Rarely,Often,Very easily,Frequently,2–4 hours,Never,A few days before,Rarely,Confident,Rarely,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Frequently,2–4 hours,Usually,A few days before,Rarely,Neutral,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,2–4 hours,Never,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Daily,Often,Sometimes,Sometimes,4+ hours,Never,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Rarely,4+ hours,Sometimes,A few days before,Usually,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Few times a week,Never,Very difficult,Sometimes,<1 hour,Sometimes,1 week before,Always,Neutral,Never,Consistent Learner
+<1 hour,5–6 hours,Before exams,Sometimes,Very easily,Frequently,2–4 hours,Always,Weeks before,Always,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Rarely,1–2 hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Always,Very easily,Frequently,4+ hours,Sometimes,A few days before,Rarely,Neutral,Rarely,Easily Distracted
+4+ hours,<5 hours,Few times a week,Sometimes,Sometimes,Never,1–2 hours,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+<1 hour,6–8 hours,Rarely,Always,Very easily,Sometimes,4+ hours,Never,A few days before,Sometimes,Confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Frequently,2–4 hours,Never,A few days before,Rarely,Very confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Often,Very easily,Frequently,4+ hours,Sometimes,1 week before,Sometimes,Not confident,Frequently,Easily Distracted
+4+ hours,8+ hours,Daily,Always,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Very confident,Frequently,Easily Distracted
+2–4 hours,5–6 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Never,Night before,Rarely,Very confident,Sometimes,Last-Minute Learner
+<1 hour,5–6 hours,Before exams,Always,Sometimes,Sometimes,4+ hours,Never,A few days before,Rarely,Neutral,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Daily,Never,Sometimes,Sometimes,<1 hour,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+4+ hours,6–8 hours,Before exams,Often,Sometimes,Frequently,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Frequently,2–4 hours,Never,1 week before,Usually,Neutral,Frequently,Easily Distracted
+4+ hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,1–2 hours,Never,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Before exams,Often,Very easily,Sometimes,<1 hour,Usually,A few days before,Usually,Not confident,Rarely,Easily Distracted
+<1 hour,5–6 hours,Daily,Always,Very easily,Sometimes,1–2 hours,Sometimes,Night before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Sometimes,Very easily,Sometimes,4+ hours,Usually,Night before,Sometimes,Neutral,Frequently,Last-Minute Learner
+4+ hours,6–8 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Never,Weeks before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Never,Sometimes,Rarely,4+ hours,Always,Weeks before,Always,Very confident,Never,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Sometimes,Very difficult,Never,<1 hour,Usually,1 week before,Usually,Confident,Rarely,Consistent Learner
+<1 hour,6–8 hours,Before exams,Always,Very difficult,Sometimes,4+ hours,Sometimes,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Always,A few days before,Rarely,Neutral,Sometimes,Last-Minute Learner
+4+ hours,6–8 hours,Rarely,Often,Sometimes,Rarely,1–2 hours,Always,A few days before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,4+ hours,Always,1 week before,Rarely,Very confident,Frequently,Easily Distracted
+4+ hours,<5 hours,Few times a week,Often,Sometimes,Sometimes,2–4 hours,Never,1 week before,Rarely,Neutral,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Daily,Never,Very difficult,Never,2–4 hours,Always,1 week before,Always,Very confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Rarely,2–4 hours,Never,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Often,Difficult,Frequently,2–4 hours,Never,Night before,Usually,Confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Daily,Never,Difficult,Never,2–4 hours,Usually,A few days before,Always,Confident,Rarely,Consistent Learner
+<1 hour,8+ hours,Daily,Always,Sometimes,Sometimes,<1 hour,Sometimes,A few days before,Usually,Not confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Always,Difficult,Rarely,1–2 hours,Sometimes,A few days before,Sometimes,Very confident,Rarely,Needs Time Management
+2–4 hours,<5 hours,Rarely,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,Weeks before,Usually,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Sometimes,Very confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Difficult,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Never,Needs Time Management
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Frequently,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+2–4 hours,5–6 hours,Daily,Never,Very easily,Frequently,2–4 hours,Usually,1 week before,Sometimes,Very confident,Frequently,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Always,Difficult,Rarely,4+ hours,Never,A few days before,Sometimes,Neutral,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Sometimes,Never,<1 hour,Usually,1 week before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Before exams,Often,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Not confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Sometimes,Rarely,1–2 hours,Usually,1 week before,Always,Not confident,Rarely,Consistent Learner
+4+ hours,6–8 hours,Daily,Never,Very difficult,Never,1–2 hours,Always,Weeks before,Sometimes,Neutral,Sometimes,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Often,Very easily,Rarely,4+ hours,Never,A few days before,Rarely,Confident,Frequently,Needs Time Management
+2–4 hours,<5 hours,Rarely,Often,Sometimes,Sometimes,1–2 hours,Sometimes,A few days before,Always,Confident,Never,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Never,Night before,Rarely,Not confident,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Often,Sometimes,Rarely,<1 hour,Usually,A few days before,Rarely,Not confident,Rarely,Needs Time Management
+1–2 hours,8+ hours,Few times a week,Always,Very easily,Rarely,4+ hours,Sometimes,Weeks before,Usually,Very confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Always,Sometimes,Rarely,2–4 hours,Sometimes,A few days before,Sometimes,Very confident,Frequently,Easily Distracted
+4+ hours,6–8 hours,Daily,Sometimes,Difficult,Never,2–4 hours,Usually,Weeks before,Usually,Not confident,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Never,1 week before,Rarely,Neutral,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Never,Very difficult,Rarely,1–2 hours,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Never,Weeks before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Rarely,1–2 hours,Always,Weeks before,Sometimes,Not confident,Frequently,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Always,Very difficult,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Very confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Sometimes,Never,1–2 hours,Usually,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+<1 hour,6–8 hours,Few times a week,Often,Sometimes,Rarely,4+ hours,Never,Night before,Rarely,Not confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Before exams,Never,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Rarely,Very confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Sometimes,Sometimes,Frequently,1–2 hours,Usually,Night before,Sometimes,Confident,Frequently,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Sometimes,Sometimes,Sometimes,1–2 hours,Always,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,<5 hours,Before exams,Sometimes,Sometimes,Frequently,2–4 hours,Sometimes,Weeks before,Sometimes,Neutral,Frequently,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Often,Very difficult,Never,1–2 hours,Usually,Weeks before,Usually,Confident,Rarely,Consistent Learner
+1–2 hours,8+ hours,Before exams,Often,Difficult,Frequently,1–2 hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,8+ hours,Few times a week,Sometimes,Sometimes,Sometimes,<1 hour,Sometimes,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Never,Difficult,Sometimes,1–2 hours,Always,A few days before,Always,Confident,Never,Consistent Learner
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Rarely,2–4 hours,Usually,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,5–6 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Sometimes,Very confident,Never,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Sometimes,Sometimes,Sometimes,2–4 hours,Usually,Weeks before,Usually,Not confident,Rarely,Easily Distracted
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Frequently,2–4 hours,Usually,1 week before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Never,Very easily,Sometimes,2–4 hours,Usually,Night before,Always,Neutral,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Often,Difficult,Rarely,4+ hours,Sometimes,1 week before,Usually,Confident,Frequently,Needs Time Management
+1–2 hours,8+ hours,Rarely,Sometimes,Difficult,Frequently,1–2 hours,Always,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,8+ hours,Before exams,Often,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,8+ hours,Rarely,Sometimes,Sometimes,Sometimes,4+ hours,Sometimes,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Often,Sometimes,Frequently,1–2 hours,Sometimes,Night before,Sometimes,Very confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Never,Difficult,Rarely,<1 hour,Always,Weeks before,Always,Not confident,Rarely,Consistent Learner
+4+ hours,6–8 hours,Daily,Never,Very difficult,Never,<1 hour,Always,Weeks before,Always,Neutral,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Sometimes,Night before,Sometimes,Very confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Always,Very easily,Sometimes,4+ hours,Sometimes,Night before,Rarely,Neutral,Frequently,Last-Minute Learner
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Frequently,4+ hours,Sometimes,Weeks before,Rarely,Confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Rarely,Sometimes,Sometimes,Sometimes,4+ hours,Never,1 week before,Usually,Neutral,Rarely,Needs Time Management
+1–2 hours,<5 hours,Daily,Often,Sometimes,Frequently,1–2 hours,Usually,Night before,Sometimes,Neutral,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Before exams,Never,Very difficult,Rarely,1–2 hours,Always,Weeks before,Always,Neutral,Frequently,Consistent Learner
+2–4 hours,8+ hours,Few times a week,Never,Very difficult,Sometimes,2–4 hours,Always,Weeks before,Always,Very confident,Rarely,Consistent Learner
+2–4 hours,5–6 hours,Before exams,Often,Sometimes,Sometimes,4+ hours,Never,A few days before,Always,Confident,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Daily,Always,Very easily,Frequently,4+ hours,Always,Night before,Usually,Confident,Frequently,Easily Distracted
+4+ hours,6–8 hours,Few times a week,Sometimes,Difficult,Never,2–4 hours,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,8+ hours,Daily,Sometimes,Difficult,Rarely,1–2 hours,Usually,A few days before,Usually,Confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Before exams,Never,Difficult,Never,<1 hour,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+<1 hour,5–6 hours,Before exams,Sometimes,Very easily,Frequently,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,1–2 hours,Sometimes,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+2–4 hours,5–6 hours,Daily,Sometimes,Very difficult,Sometimes,2–4 hours,Usually,Weeks before,Usually,Neutral,Never,Consistent Learner
+<1 hour,5–6 hours,Rarely,Sometimes,Sometimes,Frequently,1–2 hours,Sometimes,1 week before,Always,Not confident,Rarely,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Never,1–2 hours,Always,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+1–2 hours,8+ hours,Few times a week,Often,Very easily,Frequently,2–4 hours,Sometimes,Night before,Rarely,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Usually,Weeks before,Always,Not confident,Rarely,Consistent Learner
+4+ hours,8+ hours,Daily,Never,Sometimes,Frequently,1–2 hours,Usually,1 week before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,<5 hours,Daily,Never,Very difficult,Sometimes,<1 hour,Always,Weeks before,Usually,Neutral,Never,Consistent Learner
+<1 hour,5–6 hours,Few times a week,Often,Very easily,Frequently,1–2 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Before exams,Often,Sometimes,Frequently,4+ hours,Usually,A few days before,Sometimes,Very confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Sometimes,4+ hours,Usually,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Often,Difficult,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Before exams,Sometimes,Sometimes,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Always,Difficult,Never,<1 hour,Always,Weeks before,Always,Neutral,Sometimes,Consistent Learner
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Usually,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Sometimes,Very difficult,Never,<1 hour,Usually,A few days before,Sometimes,Not confident,Sometimes,Last-Minute Learner
+1–2 hours,6–8 hours,Before exams,Sometimes,Very difficult,Rarely,1–2 hours,Usually,1 week before,Usually,Not confident,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Never,Very easily,Never,1–2 hours,Sometimes,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Daily,Always,Very easily,Never,1–2 hours,Always,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Daily,Never,Difficult,Never,1–2 hours,Always,A few days before,Usually,Neutral,Sometimes,Consistent Learner
+4+ hours,6–8 hours,Daily,Often,Very difficult,Never,1–2 hours,Usually,1 week before,Sometimes,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Very difficult,Frequently,4+ hours,Sometimes,Night before,Usually,Not confident,Frequently,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Always,Very easily,Sometimes,2–4 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,<5 hours,Rarely,Always,Very easily,Rarely,1–2 hours,Usually,Night before,Rarely,Not confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Always,Very easily,Sometimes,2–4 hours,Never,Night before,Sometimes,Confident,Never,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Often,Sometimes,Sometimes,2–4 hours,Usually,1 week before,Sometimes,Confident,Rarely,Needs Time Management
+<1 hour,6–8 hours,Before exams,Sometimes,Very difficult,Frequently,2–4 hours,Sometimes,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,<5 hours,Rarely,Often,Difficult,Frequently,4+ hours,Never,Night before,Rarely,Confident,Frequently,Needs Time Management
+2–4 hours,5–6 hours,Daily,Always,Sometimes,Frequently,<1 hour,Always,A few days before,Usually,Neutral,Sometimes,Easily Distracted
+<1 hour,5–6 hours,Few times a week,Sometimes,Sometimes,Sometimes,<1 hour,Sometimes,Weeks before,Usually,Confident,Frequently,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Usually,Weeks before,Sometimes,Neutral,Frequently,Easily Distracted
+2–4 hours,8+ hours,Before exams,Always,Very easily,Frequently,1–2 hours,Usually,A few days before,Sometimes,Not confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Sometimes,Frequently,1–2 hours,Never,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,<5 hours,Before exams,Sometimes,Difficult,Sometimes,1–2 hours,Usually,A few days before,Rarely,Confident,Rarely,Needs Time Management
+4+ hours,<5 hours,Rarely,Never,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Usually,Confident,Sometimes,Needs Time Management
+1–2 hours,8+ hours,Before exams,Always,Sometimes,Frequently,4+ hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Few times a week,Sometimes,Sometimes,Frequently,4+ hours,Never,A few days before,Usually,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,2–4 hours,Always,Weeks before,Usually,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Always,Sometimes,Rarely,2–4 hours,Never,Night before,Sometimes,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Sometimes,1–2 hours,Sometimes,Night before,Sometimes,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Before exams,Always,Very easily,Sometimes,2–4 hours,Sometimes,A few days before,Rarely,Confident,Frequently,Last-Minute Learner
+<1 hour,6–8 hours,Daily,Always,Very easily,Frequently,1–2 hours,Usually,Weeks before,Sometimes,Neutral,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Frequently,2–4 hours,Usually,1 week before,Rarely,Neutral,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Rarely,Sometimes,Very difficult,Sometimes,1–2 hours,Always,Weeks before,Always,Confident,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Sometimes,Sometimes,Frequently,2–4 hours,Never,1 week before,Sometimes,Neutral,Frequently,Needs Time Management
+1–2 hours,8+ hours,Few times a week,Always,Sometimes,Sometimes,2–4 hours,Sometimes,1 week before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Always,Very easily,Frequently,4+ hours,Usually,A few days before,Sometimes,Very confident,Never,Easily Distracted
+1–2 hours,5–6 hours,Few times a week,Often,Difficult,Sometimes,2–4 hours,Sometimes,Weeks before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Rarely,2–4 hours,Usually,1 week before,Always,Neutral,Sometimes,Consistent Learner
+<1 hour,8+ hours,Rarely,Always,Very difficult,Sometimes,2–4 hours,Usually,A few days before,Rarely,Confident,Sometimes,Last-Minute Learner
+<1 hour,6–8 hours,Rarely,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,5–6 hours,Few times a week,Often,Difficult,Sometimes,1–2 hours,Never,Weeks before,Always,Not confident,Sometimes,Needs Time Management
+2–4 hours,6–8 hours,Few times a week,Never,Very easily,Frequently,1–2 hours,Always,Weeks before,Usually,Confident,Rarely,Consistent Learner
+<1 hour,<5 hours,Few times a week,Often,Sometimes,Sometimes,1–2 hours,Usually,A few days before,Usually,Neutral,Frequently,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Difficult,Sometimes,<1 hour,Never,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+<1 hour,5–6 hours,Few times a week,Often,Difficult,Frequently,4+ hours,Never,Night before,Rarely,Neutral,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very easily,Never,1–2 hours,Always,1 week before,Always,Very confident,Rarely,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Sometimes,Very easily,Frequently,2–4 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Often,Difficult,Sometimes,2–4 hours,Sometimes,Weeks before,Always,Neutral,Sometimes,Needs Time Management
+4+ hours,6–8 hours,Few times a week,Always,Very easily,Frequently,1–2 hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Always,Sometimes,Frequently,4+ hours,Sometimes,1 week before,Sometimes,Neutral,Rarely,Easily Distracted
+1–2 hours,5–6 hours,Daily,Always,Sometimes,Frequently,1–2 hours,Never,A few days before,Rarely,Neutral,Rarely,Last-Minute Learner
+4+ hours,5–6 hours,Few times a week,Always,Sometimes,Frequently,<1 hour,Always,Weeks before,Always,Not confident,Never,Consistent Learner
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Sometimes,<1 hour,Usually,Weeks before,Always,Not confident,Sometimes,Consistent Learner
+2–4 hours,6–8 hours,Daily,Never,Difficult,Rarely,<1 hour,Always,1 week before,Always,Neutral,Never,Consistent Learner
+1–2 hours,5–6 hours,Rarely,Often,Sometimes,Frequently,1–2 hours,Sometimes,A few days before,Sometimes,Not confident,Frequently,Last-Minute Learner
+<1 hour,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Sometimes,Night before,Sometimes,Neutral,Sometimes,Last-Minute Learner
+4+ hours,5–6 hours,Before exams,Always,Very easily,Frequently,4+ hours,Usually,A few days before,Usually,Neutral,Rarely,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Rarely,1–2 hours,Usually,Night before,Rarely,Neutral,Frequently,Easily Distracted
+<1 hour,8+ hours,Daily,Sometimes,Sometimes,Frequently,4+ hours,Usually,Night before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Daily,Never,Very difficult,Rarely,4+ hours,Always,A few days before,Always,Neutral,Frequently,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Very easily,Sometimes,4+ hours,Sometimes,A few days before,Always,Confident,Frequently,Last-Minute Learner
+2–4 hours,5–6 hours,Rarely,Always,Very difficult,Frequently,1–2 hours,Usually,1 week before,Sometimes,Neutral,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Rarely,Always,Difficult,Rarely,1–2 hours,Usually,A few days before,Sometimes,Neutral,Sometimes,Needs Time Management
+1–2 hours,5–6 hours,Before exams,Often,Difficult,Sometimes,1–2 hours,Usually,A few days before,Rarely,Confident,Never,Needs Time Management
+2–4 hours,6–8 hours,Daily,Never,Very difficult,Rarely,2–4 hours,Always,Weeks before,Always,Confident,Frequently,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Difficult,Never,<1 hour,Usually,Weeks before,Rarely,Not confident,Frequently,Consistent Learner
+<1 hour,8+ hours,Few times a week,Always,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,8+ hours,Few times a week,Never,Very difficult,Rarely,<1 hour,Always,1 week before,Always,Confident,Rarely,Consistent Learner
+<1 hour,5–6 hours,Daily,Often,Very easily,Frequently,2–4 hours,Always,Weeks before,Sometimes,Not confident,Rarely,Easily Distracted
+2–4 hours,5–6 hours,Few times a week,Sometimes,Difficult,Sometimes,1–2 hours,Always,Weeks before,Usually,Neutral,Rarely,Consistent Learner
+2–4 hours,6–8 hours,Rarely,Often,Sometimes,Rarely,2–4 hours,Never,1 week before,Sometimes,Neutral,Never,Needs Time Management
+2–4 hours,5–6 hours,Rarely,Always,Difficult,Rarely,2–4 hours,Sometimes,Weeks before,Sometimes,Confident,Rarely,Needs Time Management
+2–4 hours,8+ hours,Before exams,Always,Difficult,Rarely,1–2 hours,Never,Night before,Sometimes,Not confident,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Daily,Never,Very easily,Sometimes,2–4 hours,Sometimes,1 week before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Always,Very easily,Frequently,1–2 hours,Always,1 week before,Usually,Not confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Few times a week,Often,Very easily,Frequently,4+ hours,Usually,1 week before,Usually,Confident,Frequently,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Never,Very difficult,Sometimes,2–4 hours,Usually,A few days before,Rarely,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,1–2 hours,Usually,A few days before,Rarely,Confident,Rarely,Easily Distracted
+<1 hour,6–8 hours,Before exams,Often,Sometimes,Never,2–4 hours,Never,A few days before,Rarely,Neutral,Sometimes,Last-Minute Learner
+1–2 hours,5–6 hours,Before exams,Always,Sometimes,Sometimes,1–2 hours,Always,A few days before,Usually,Confident,Frequently,Easily Distracted
+2–4 hours,8+ hours,Few times a week,Never,Difficult,Rarely,<1 hour,Always,Weeks before,Sometimes,Neutral,Never,Consistent Learner
+2–4 hours,6–8 hours,Few times a week,Sometimes,Very difficult,Sometimes,1–2 hours,Usually,Weeks before,Usually,Not confident,Never,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Often,Difficult,Frequently,1–2 hours,Never,A few days before,Sometimes,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Daily,Sometimes,Difficult,Frequently,4+ hours,Always,A few days before,Usually,Not confident,Frequently,Easily Distracted
+2–4 hours,8+ hours,Few times a week,Sometimes,Difficult,Never,<1 hour,Always,1 week before,Always,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Often,Sometimes,Sometimes,2–4 hours,Usually,Night before,Usually,Very confident,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Daily,Sometimes,Sometimes,Rarely,4+ hours,Sometimes,1 week before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Sometimes,2–4 hours,Never,1 week before,Sometimes,Neutral,Sometimes,Needs Time Management
+<1 hour,5–6 hours,Few times a week,Often,Sometimes,Frequently,4+ hours,Sometimes,A few days before,Rarely,Very confident,Sometimes,Easily Distracted
+2–4 hours,8+ hours,Daily,Always,Very difficult,Never,<1 hour,Always,1 week before,Sometimes,Neutral,Frequently,Consistent Learner
+4+ hours,6–8 hours,Few times a week,Never,Difficult,Never,1–2 hours,Always,1 week before,Usually,Neutral,Rarely,Consistent Learner
+1–2 hours,6–8 hours,Few times a week,Often,Sometimes,Rarely,<1 hour,Usually,A few days before,Rarely,Confident,Sometimes,Easily Distracted
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Rarely,2–4 hours,Always,1 week before,Usually,Confident,Rarely,Needs Time Management
+1–2 hours,6–8 hours,Few times a week,Often,Very easily,Sometimes,2–4 hours,Usually,Night before,Sometimes,Confident,Rarely,Easily Distracted
+1–2 hours,5–6 hours,Rarely,Always,Very difficult,Sometimes,1–2 hours,Sometimes,Night before,Sometimes,Confident,Rarely,Needs Time Management
+4+ hours,6–8 hours,Daily,Never,Very difficult,Frequently,1–2 hours,Always,Weeks before,Usually,Neutral,Never,Consistent Learner
+1–2 hours,6–8 hours,Rarely,Always,Sometimes,Rarely,4+ hours,Sometimes,Night before,Rarely,Confident,Sometimes,Last-Minute Learner
+2–4 hours,6–8 hours,Before exams,Often,Sometimes,Rarely,2–4 hours,Usually,Night before,Rarely,Neutral,Sometimes,Easily Distracted
+<1 hour,8+ hours,Few times a week,Sometimes,Very easily,Frequently,4+ hours,Always,Night before,Sometimes,Very confident,Frequently,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Always,Sometimes,Frequently,2–4 hours,Never,Night before,Usually,Neutral,Sometimes,Needs Time Management
+1–2 hours,6–8 hours,Daily,Often,Very easily,Sometimes,2–4 hours,Never,A few days before,Sometimes,Confident,Sometimes,Easily Distracted
+2–4 hours,6–8 hours,Before exams,Always,Sometimes,Sometimes,2–4 hours,Sometimes,A few days before,Usually,Confident,Rarely,Needs Time Management
+2–4 hours,6–8 hours,Daily,Sometimes,Very difficult,Never,1–2 hours,Always,A few days before,Always,Neutral,Sometimes,Consistent Learner
+1–2 hours,5–6 hours,Before exams,Always,Very easily,Frequently,2–4 hours,Never,Weeks before,Usually,Neutral,Rarely,Last-Minute Learner
+1–2 hours,6–8 hours,Daily,Sometimes,Difficult,Never,1–2 hours,Sometimes,1 week before,Always,Not confident,Rarely,Consistent Learner
+<1 hour,<5 hours,Before exams,Always,Difficult,Sometimes,1–2 hours,Never,A few days before,Rarely,Not confident,Never,Last-Minute Learner
+1–2 hours,<5 hours,Rarely,Often,Very difficult,Rarely,1–2 hours,Never,A few days before,Rarely,Confident,Never,Needs Time Management
