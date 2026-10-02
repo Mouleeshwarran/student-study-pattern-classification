@@ -681,6 +681,93 @@ Prediction
 The ML API **does not accept the raw questionnaire text**. It currently accepts the numeric values from 1 to 4.
 
 ---
+# Result Delivery and Notifications
+
+After the ML model generates the student's study-pattern prediction, the prediction is returned to the Spring Boot backend.
+
+The Spring Boot backend is responsible for delivering the result to the student through their registered email address and phone number.
+
+## Result Flow
+
+```text
+Student
+   ↓
+React Questionnaire
+   ↓
+Spring Boot Backend
+   ↓
+FastAPI ML API
+   ↓
+ML Prediction
+   ↓
+Spring Boot Backend
+   ↓
+┌──────────────────────────┐
+│ Email Notification       │
+│ SMS / Phone Notification │
+└──────────────────────────┘
+   ↓
+Student receives result
+```
+
+## ML Response
+
+The FastAPI service returns:
+
+```json
+{
+  "prediction": "Last-Minute Learner",
+  "confidence": 99.91,
+  "class_probabilities": {
+    "Consistent Learner": 0,
+    "Easily Distracted": 0.04,
+    "Last-Minute Learner": 99.91,
+    "Needs Time Management": 0.04
+  }
+}
+```
+
+The Spring Boot backend receives this response and uses the `prediction` and `confidence` values to construct the student's result message.
+
+## Email Notification
+
+The student's result can be sent to their registered email address.
+
+Example:
+
+```text
+Your Student Study Pattern Result
+
+Study Pattern: Last-Minute Learner
+Confidence: 99.91%
+
+Thank you for completing the Student Study Pattern Assessment.
+```
+
+## SMS / Phone Notification
+
+The Spring Boot backend can also send the result to the student's registered phone number through an SMS service.
+
+Example:
+
+```text
+Study Pattern Result:
+Last-Minute Learner
+Confidence: 99.91%
+```
+
+## Responsibility of Each Component
+
+| Component | Responsibility |
+|---|---|
+| React | Displays questionnaire and result |
+| Spring Boot | Handles student data, authentication, ML API communication and notifications |
+| FastAPI | Performs ML prediction |
+| ML Model | Classifies the study pattern |
+| Email Service | Sends result to student's email |
+| SMS Service | Sends result to student's phone |
+
+The ML service does not directly send emails or SMS messages. It only performs prediction and returns the result to the Spring Boot backend.
 
 # Integration Example
 
