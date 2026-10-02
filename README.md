@@ -621,31 +621,8 @@ Example:
 
 ```json
 {
-  "prediction": "Last-Minute Learner",
-  "confidence": 99.91,
-  "class_probabilities": {
-    "Consistent Learner": 0,
-    "Easily Distracted": 0.04,
-    "Last-Minute Learner": 99.91,
-    "Needs Time Management": 0.04
-  },
-  "features": {
-    "study_hours": 2,
-    "sleep_hours": 2,
-    "revision_frequency": 4,
-    "assignment_procrastination": 4,
-    "study_distraction": 3,
-    "phone_usage": 3,
-    "social_media_hours": 3,
-    "study_schedule": 1,
-    "exam_preparation": 4,
-    "planned_goals_completed": 1,
-    "academic_confidence": 2,
-    "study_stress": 4
-  }
+  "prediction": "Last-Minute Learner"
 }
-```
-
 ---
 
 # Backend Integration
