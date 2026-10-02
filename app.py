@@ -1,90 +1,179 @@
-
-from flask import Flask, request, jsonify
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel, Field
 import joblib
 import pandas as pd
-
-app = Flask(__name__)
-
-# Load the trained model and expected feature names
-model = joblib.load("study_pattern_model.joblib")
-feature_names = joblib.load("feature_names.joblib")
+from pathlib import Path
 
 
-@app.route("/health", methods=["GET"])
+# ============================================================
+# Configuration
+# ============================================================
+
+BASE_DIR = Path(__file__).resolve().parent
+
+MODEL_PATH = BASE_DIR / "study_pattern_model_v2.joblib"
+FEATURE_PATH = BASE_DIR / "feature_names_v2.joblib"
+CLASS_PATH = BASE_DIR / "class_names_v2.joblib"
+
+
+# ============================================================
+# Load Model
+# ============================================================
+
+try:
+    model = joblib.load(MODEL_PATH)
+    feature_names = joblib.load(FEATURE_PATH)
+    class_names = joblib.load(CLASS_PATH)
+
+    print("Model loaded successfully.")
+    print("Features:", feature_names)
+    print("Classes:", class_names)
+
+except Exception as e:
+    raise RuntimeError(f"Failed to load model files: {e}")
+
+
+# ============================================================
+# FastAPI
+# ============================================================
+
+app = FastAPI(
+    title="Student Study Pattern Classification API",
+    description="ML API for classifying student study patterns",
+    version="2.0.0"
+)
+
+
+# ============================================================
+# CORS
+# ============================================================
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+# ============================================================
+# Request Model
+# ============================================================
+
+class PredictionRequest(BaseModel):
+
+    study_hours: int = Field(..., ge=1, le=4)
+    sleep_hours: int = Field(..., ge=1, le=4)
+    revision_frequency: int = Field(..., ge=1, le=4)
+    assignment_procrastination: int = Field(..., ge=1, le=4)
+    study_distraction: int = Field(..., ge=1, le=4)
+    phone_usage: int = Field(..., ge=1, le=4)
+    social_media_hours: int = Field(..., ge=1, le=4)
+    study_schedule: int = Field(..., ge=1, le=4)
+    exam_preparation: int = Field(..., ge=1, le=4)
+    planned_goals_completed: int = Field(..., ge=1, le=4)
+    academic_confidence: int = Field(..., ge=1, le=4)
+    study_stress: int = Field(..., ge=1, le=4)
+
+
+# ============================================================
+# Health Check
+# ============================================================
+
+@app.get("/health")
 def health():
-    return jsonify({
-        "status": "running",
-        "message": "Student Study Pattern ML API is ready"
-    })
+
+    return {
+        "status": "ok",
+        "model": "study_pattern_model_v2",
+        "version": "2.0.0"
+    }
 
 
-@app.route("/features", methods=["GET"])
-def features():
-    return jsonify({
-        "features": feature_names
-    })
+# ============================================================
+# Features
+# ============================================================
+
+@app.get("/features")
+def get_features():
+
+    return {
+        "features": feature_names,
+        "classes": class_names
+    }
 
 
-@app.route("/predict", methods=["POST"])
-def predict():
+# ============================================================
+# Prediction
+# ============================================================
+
+@app.post("/predict")
+def predict(request: PredictionRequest):
+
     try:
-        data = request.get_json(silent=True)
 
-        if not isinstance(data, dict):
-            return jsonify({
-                "error": "Request body must be a JSON object"
-            }), 400
+        # Convert request into dictionary
+        data = request.model_dump()
 
-        if "features" not in data or not isinstance(data["features"], dict):
-            return jsonify({
-                "error": "Provide survey responses inside a 'features' object"
-            }), 400
+        # IMPORTANT:
+        # Maintain exactly the same feature order
+        # used during model training.
+        input_data = {
+            feature: data[feature]
+            for feature in feature_names
+        }
 
-        input_data = data["features"]
+        # DataFrame preserves feature names and removes
+        # the StandardScaler warning.
+        X = pd.DataFrame([input_data])
 
-        missing = [f for f in feature_names if f not in input_data]
-        extra = [f for f in input_data if f not in feature_names]
+        # Prediction
+        prediction = model.predict(X)[0]
 
-        if missing or extra:
-            return jsonify({
-                "error": "Input features do not match the model",
-                "missing_features": missing,
-                "unexpected_features": extra
-            }), 400
+        # Probabilities
+        probabilities = model.predict_proba(X)[0]
 
-        # Arrange the features in the same order used during training
-        row = pd.DataFrame(
-            [[input_data[f] for f in feature_names]],
-            columns=feature_names
+        # Confidence
+        confidence = float(max(probabilities))
+
+        # Probability for every class
+        class_probabilities = {
+            class_name: round(float(probability) * 100, 2)
+            for class_name, probability
+            in zip(model.classes_, probabilities)
+        }
+
+        return {
+            "prediction": prediction,
+            "confidence": round(confidence * 100, 2),
+            "class_probabilities": class_probabilities,
+            "features": input_data
+        }
+
+    except Exception as e:
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"Prediction failed: {str(e)}"
         )
 
-        # Validate that all values are numeric
-        row = row.apply(pd.to_numeric, errors="raise")
 
-        if row.isnull().any().any():
-            return jsonify({
-                "error": "Feature values cannot be empty"
-            }), 400
+# ============================================================
+# Root
+# ============================================================
 
-        # Predict the study pattern
-        prediction = model.predict(row)[0]
+@app.get("/")
+def root():
 
-        return jsonify({
-            "prediction": str(prediction)
-        })
-
-    except (ValueError, TypeError) as e:
-        return jsonify({
-            "error": "Invalid input",
-            "details": str(e)
-        }), 400
-
-    except Exception:
-        app.logger.exception("Prediction failed")
-        return jsonify({
-            "error": "Internal prediction error"
-        }), 500
-
-
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=False)
+    return {
+        "message": "Student Study Pattern Classification API",
+        "version": "2.0.0",
+        "model": "study_pattern_model_v2",
+        "endpoints": [
+            "GET /health",
+            "GET /features",
+            "POST /predict"
+        ]
+    }

@@ -26,4 +26,4 @@ Thumbs.db
 
 # Test caches
 .pytest_cache/
-.mypy_cache/
+.mypy_cache/.venv311/
