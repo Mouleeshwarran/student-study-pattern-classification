@@ -1,0 +1,10 @@
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\config\CorsConfig.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\controller\OtpController.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\controller\TestController.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\dto\OtpSendRequest.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\dto\OtpVerifyRequest.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\dto\SendResultRequest.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\entity\OtpVerification.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\OtpBackendApplication.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\repository\OtpRepository.java
+D:\github-guru\student-study-pattern-classification\otp-backend\src\main\java\com\example\otp_backend\service\OtpService.java
