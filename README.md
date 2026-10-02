@@ -1,352 +1,892 @@
-\# Student Study Pattern Classification System
+# Student Study Pattern Classification System
 
+## Overview
 
+The **Student Study Pattern Classification System** is a machine learning-based application that analyzes students' study habits through a questionnaire and classifies them into one of four study-pattern categories.
 
-\## Overview
+The system collects information about study routines, revision habits, procrastination, distractions, phone and social-media usage, study planning, examination preparation, academic confidence, and study stress.
 
+The machine learning model processes these responses and predicts the student's study pattern.
 
+### Study Pattern Categories
 
-The \*\*Student Study Pattern Classification System\*\* is a machine learning-based application that analyzes students' study habits and classifies them into one of four study pattern categories.
+The system classifies students into four categories:
 
+1. **Consistent Learner** – Maintains a regular study routine and follows a structured learning approach.
 
+2. **Needs Time Management** – Shows difficulties related to planning, scheduling, and completing planned study activities.
 
-The system uses survey responses related to study routines, revision habits, distractions, time management, and academic confidence to identify a student's study pattern.
+3. **Easily Distracted** – Experiences frequent distractions, particularly from phones, social media, or other interruptions during study sessions.
 
+4. **Last-Minute Learner** – Tends to postpone academic preparation and concentrates study efforts closer to examinations or deadlines.
 
+---
 
-\## Study Pattern Categories
-
-
-
-The model classifies students into the following four categories:
-
-
-
-1\. \*\*Consistent Learner\*\* – Maintains a regular study routine and follows a structured learning approach.
-
-2\. \*\*Needs Time Management\*\* – May benefit from better planning and organization of study activities.
-
-3\. \*\*Easily Distracted\*\* – Experiences distractions that may interrupt study sessions.
-
-4\. \*\*Last-Minute Learner\*\* – Tends to postpone preparation and concentrate study efforts closer to deadlines or examinations.
-
-
-
-\## Technology Stack
-
-
-
-\* \*\*Programming Language:\*\* Python
-
-\* \*\*Machine Learning:\*\* Scikit-learn
-
-\* \*\*Data Processing:\*\* Pandas
-
-\* \*\*Model Serialization:\*\* Joblib
-
-\* \*\*Backend API:\*\* Flask
-
-\* \*\*API Testing:\*\* PowerShell / REST API requests
-
-
-
-\## Machine Learning Features
-
-
-
-The model uses the following 12 input features:
-
-
-
-\* Study hours
-
-\* Sleep hours
-
-\* Revision frequency
-
-\* Assignment procrastination
-
-\* Study distraction
-
-\* Phone usage
-
-\* Social media hours
-
-\* Study schedule
-
-\* Exam preparation
-
-\* Planned goals completed
-
-\* Academic confidence
-
-\* Study stress
-
-
-
-\## Project Structure
-
-
+## System Architecture
 
 ```text
+Student
+   │
+   ▼
+React Questionnaire
+   │
+   │ Text-based answers
+   ▼
+Spring Boot Backend
+   │
+   │ Convert answers → numeric values (1–4)
+   ▼
+FastAPI ML Service
+   │
+   ▼
+V2 Logistic Regression Model
+   │
+   ▼
+Prediction + Confidence
+   │
+   ▼
+Spring Boot Backend
+   │
+   ▼
+React Frontend
+   │
+   ▼
+Student Result
+```
 
-Web\_programming \_project/
+---
 
+## Technology Stack
+
+| Component | Technology |
+|---|---|
+| Programming Language | Python |
+| Machine Learning | Scikit-learn |
+| Data Processing | Pandas, NumPy |
+| Model Serialization | Joblib |
+| ML API | FastAPI |
+| ASGI Server | Uvicorn |
+| API Documentation | Swagger / OpenAPI |
+| Frontend | React |
+| Main Backend | Spring Boot |
+| API Testing | Swagger UI / REST API / PowerShell |
+| Version Control | Git / GitHub |
+
+---
+
+## Machine Learning Features
+
+The model uses the following 12 features:
+
+1. `study_hours`
+2. `sleep_hours`
+3. `revision_frequency`
+4. `assignment_procrastination`
+5. `study_distraction`
+6. `phone_usage`
+7. `social_media_hours`
+8. `study_schedule`
+9. `exam_preparation`
+10. `planned_goals_completed`
+11. `academic_confidence`
+12. `study_stress`
+
+All model input features use numeric values from **1 to 4**.
+
+---
+
+# Questionnaire and Feature Mapping
+
+The frontend displays human-readable answer options.
+
+The backend converts each selected answer into a numeric value from **1 to 4** before sending the request to the ML API.
+
+> **Important:** These mappings must not be changed unless the model is retrained with the new encoding.
+
+---
+
+## 1. Study Hours
+
+**Question:**
+
+> How many hours do you usually study per day?
+
+| Answer | Value |
+|---|---:|
+| <1 hour | 1 |
+| 1–2 hours | 2 |
+| 2–4 hours | 3 |
+| 4+ hours | 4 |
+
+---
+
+## 2. Sleep Hours
+
+**Question:**
+
+> How many hours do you usually sleep per night?
+
+| Answer | Value |
+|---|---:|
+| <5 hours | 1 |
+| 5–6 hours | 2 |
+| 6–8 hours | 3 |
+| 8+ hours | 4 |
+
+---
+
+## 3. Revision Frequency
+
+**Question:**
+
+> How often do you revise your study material?
+
+| Answer | Value |
+|---|---:|
+| Daily | 1 |
+| Few times a week | 2 |
+| Before exams | 3 |
+| Rarely | 4 |
+
+> **Important:** This feature uses the existing dataset encoding. `Daily = 1` and `Rarely = 4`. Do not reverse this mapping without retraining the model.
+
+---
+
+## 4. Assignment Procrastination
+
+**Question:**
+
+> How often do you postpone your assignments?
+
+| Answer | Value |
+|---|---:|
+| Never | 1 |
+| Sometimes | 2 |
+| Often | 3 |
+| Always | 4 |
+
+---
+
+## 5. Study Distraction
+
+**Question:**
+
+> How easily are you distracted while studying?
+
+| Answer | Value |
+|---|---:|
+| Very difficult | 1 |
+| Difficult | 2 |
+| Sometimes | 3 |
+| Very easily | 4 |
+
+---
+
+## 6. Phone Usage
+
+**Question:**
+
+> How often do you use your phone while studying?
+
+| Answer | Value |
+|---|---:|
+| Never | 1 |
+| Rarely | 2 |
+| Sometimes | 3 |
+| Frequently | 4 |
+
+---
+
+## 7. Social Media Hours
+
+**Question:**
+
+> How much time do you spend on social media per day?
+
+| Answer | Value |
+|---|---:|
+| <1 hour | 1 |
+| 1–2 hours | 2 |
+| 2–4 hours | 3 |
+| 4+ hours | 4 |
+
+---
+
+## 8. Study Schedule
+
+**Question:**
+
+> How consistently do you follow a study schedule?
+
+| Answer | Value |
+|---|---:|
+| Never | 1 |
+| Sometimes | 2 |
+| Usually | 3 |
+| Always | 4 |
+
+---
+
+## 9. Exam Preparation
+
+**Question:**
+
+> When do you usually start preparing for exams?
+
+| Answer | Value |
+|---|---:|
+| Weeks before | 1 |
+| 1 week before | 2 |
+| A few days before | 3 |
+| Night before | 4 |
+
+---
+
+## 10. Planned Goals Completed
+
+**Question:**
+
+> How often do you complete the study goals you plan?
+
+| Answer | Value |
+|---|---:|
+| Rarely | 1 |
+| Sometimes | 2 |
+| Usually | 3 |
+| Always | 4 |
+
+---
+
+## 11. Academic Confidence
+
+**Question:**
+
+> How confident are you about your academic performance?
+
+| Answer | Value |
+|---|---:|
+| Not confident | 1 |
+| Neutral | 2 |
+| Confident | 3 |
+| Very confident | 4 |
+
+---
+
+## 12. Study Stress
+
+**Question:**
+
+> How often do you feel stressed about your studies?
+
+| Answer | Value |
+|---|---:|
+| Never | 1 |
+| Rarely | 2 |
+| Sometimes | 3 |
+| Frequently | 4 |
+
+---
+
+# Dataset
+
+The project contains an original dataset and an improved V2 dataset.
+
+### Original Dataset
+
+The original dataset contains approximately 1,000 student records with 12 numerical features and a target category.
+
+### V2 Dataset
+
+The V2 dataset contains:
+
+```text
+Samples: 1,400
+Features: 12
+Classes: 4
+Samples per class: 350
+```
+
+The four classes are balanced in the V2 dataset:
+
+| Class | Samples |
+|---|---:|
+| Consistent Learner | 350 |
+| Easily Distracted | 350 |
+| Last-Minute Learner | 350 |
+| Needs Time Management | 350 |
+
+The V2 dataset was designed to provide clearer behavioral separation between the study-pattern categories while retaining realistic overlap between related categories.
+
+> **Dataset limitation:** The V2 dataset is synthetic/generated data intended for academic prototyping. It does not represent a validated sample of real-world student behavior.
+
+---
+
+# Model Training
+
+The project evaluates multiple machine learning classification algorithms.
+
+The evaluated models include:
+
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- Extra Trees
+- Gradient Boosting
+
+The V2 models were evaluated using **5-fold Stratified Cross-Validation**.
+
+## Model Comparison
+
+| Model | Cross-Validation Accuracy | Macro F1 |
+|---|---:|---:|
+| **Logistic Regression** | **85.64%** | **85.62%** |
+| SVM | 84.64% | 84.60% |
+| Extra Trees | 84.07% | 84.03% |
+| Random Forest | 83.50% | 83.52% |
+| Gradient Boosting | 82.57% | 82.54% |
+
+### Selected Model
+
+The V2 system uses:
+
+```text
+Logistic Regression
++
+StandardScaler
++
+5-fold Stratified Cross-Validation
+```
+
+The selected model achieved:
+
+```text
+Cross-Validation Accuracy: 85.64%
+Macro F1 Score:             85.62%
+```
+
+---
+
+# V2 Model Performance by Class
+
+The V2 model was evaluated using cross-validation predictions.
+
+| Class | Precision | Recall | F1 Score |
+|---|---:|---:|---:|
+| Consistent Learner | 98.86% | 99.43% | 99.15% |
+| Easily Distracted | 81.14% | 81.14% | 81.14% |
+| Last-Minute Learner | 81.74% | 83.14% | 82.44% |
+| Needs Time Management | 80.70% | 78.86% | 79.77% |
+
+The results show strong separation for the **Consistent Learner** category, while some overlap remains between **Easily Distracted**, **Last-Minute Learner**, and **Needs Time Management**.
+
+---
+
+# Model Files
+
+The trained V2 model and supporting artifacts are:
+
+```text
+study_pattern_model_v2.joblib
+feature_names_v2.joblib
+class_names_v2.joblib
+```
+
+### `study_pattern_model_v2.joblib`
+
+Contains the trained machine learning pipeline:
+
+```text
+StandardScaler
+      ↓
+LogisticRegression
+```
+
+### `feature_names_v2.joblib`
+
+Contains the exact feature order expected by the model.
+
+### `class_names_v2.joblib`
+
+Contains the four prediction classes.
+
+---
+
+# Project Structure
+
+```text
+Web_programming _project/
+│
 ├── app.py
-
-├── train\_model.py
-
-├── evaluvate\_models.py
-
-├── evaluvate\_detailes.py
-
+│
+├── train_model.py
+├── evaluvate_models.py
+├── evaluvate_detailes.py
+├── evaluvate_final_model.py
+│
+├── test_model_v2.py
+├── test_four_profiles.py
+│
 ├── requirements.txt
-
-├── study\_pattern\_model.joblib
-
-├── feature\_names.joblib
-
-├── student\_study\_pattern\_dataset.csv
-
-├── student\_study\_pattern\_dataset\_readable.csv
-
+│
+├── study_pattern_model.joblib
+├── feature_names.joblib
+│
+├── study_pattern_model_v2.joblib
+├── feature_names_v2.joblib
+├── class_names_v2.joblib
+│
+├── student_study_pattern_dataset.csv
+├── student_study_pattern_dataset_readable.csv
+├── student_study_pattern_dataset_v2.csv
+├── student_study_pattern_dataset_v2_readable.xlsx
+│
+├── model_comparison_v2.csv
+│
 ├── README.md
-
 └── .gitignore
-
 ```
 
+---
 
+# Installation
 
-\## Model Training
-
-
-
-The project evaluates multiple classification algorithms:
-
-
-
-\* Decision Tree
-
-\* Random Forest
-
-\* Extra Trees
-
-\* Logistic Regression
-
-
-
-The selected model is trained using a standardized feature pipeline and saved as a Joblib artifact for use by the Flask API.
-
-
-
-The current Logistic Regression model achieved approximately \*\*78% accuracy\*\* on an 80/20 stratified train-test split. This result is based on a synthetic dataset and should not be interpreted as validated real-world student performance.
-
-
-
-\## Installation
-
-
-
-\### 1. Clone the repository
-
-
+## 1. Clone the Repository
 
 ```bash
-
-git clone YOUR\_REPOSITORY\_URL
-
-cd "Web\_programming \_project"
-
+git clone YOUR_REPOSITORY_URL
 ```
 
-
-
-\### 2. Create a virtual environment
-
-
+Move into the project directory:
 
 ```bash
-
-python -m venv .venv
-
+cd "Web_programming _project"
 ```
 
+---
 
+## 2. Install Python
 
-\### 3. Activate the environment
+The V2 model was created using a Python environment compatible with:
 
+```text
+Python 3.11
+scikit-learn 1.8.0
+```
 
+Using the same or compatible versions is recommended when loading the Joblib model.
+
+---
+
+## 3. Create a Virtual Environment
 
 Windows PowerShell:
 
+```powershell
+py -3.11 -m venv .venv311
+```
 
+---
+
+## 4. Activate the Environment
 
 ```powershell
-
-.\\.venv\\Scripts\\Activate.ps1
-
+.\.venv311\Scripts\Activate.ps1
 ```
 
+---
 
+## 5. Install Dependencies
 
-\### 4. Install dependencies
-
-
-
-```bash
-
-python -m pip install -r requirements.txt
-
+```powershell
+python -m pip install --upgrade pip
 ```
 
+Then:
 
-
-\## Run the Flask API
-
-
-
-```bash
-
-python app.py
-
+```powershell
+python -m pip install fastapi uvicorn pandas numpy scikit-learn==1.8.0 joblib
 ```
 
+---
 
+# Run the FastAPI ML Service
 
-The API runs at:
+Start the API using:
 
+```powershell
+python -m uvicorn app:app --reload
+```
 
+The API will run at:
 
-`http://127.0.0.1:5000`
+```text
+http://127.0.0.1:8000
+```
 
+Interactive Swagger documentation is available at:
 
+```text
+http://127.0.0.1:8000/docs
+```
 
-\## API Endpoints
+---
 
+# API Endpoints
 
+| Method | Endpoint | Description |
+|---|---|---|
+| GET | `/` | Returns API information |
+| GET | `/health` | Checks API status |
+| GET | `/features` | Returns model features and classes |
+| POST | `/predict` | Predicts the student's study pattern |
 
-| Method | Endpoint    | Description                          |
+---
 
-| ------ | ----------- | ------------------------------------ |
+# Health Check
 
-| GET    | `/health`   | Checks API status                    |
+Request:
 
-| GET    | `/features` | Returns the required input features  |
+```text
+GET /health
+```
 
-| POST   | `/predict`  | Predicts the student's study pattern |
-
-
-
-\## Prediction Request Example
-
-
-
-Send a POST request to:
-
-
-
-`http://127.0.0.1:5000/predict`
-
-
-
-Example JSON:
-
-
+Example response:
 
 ```json
-
 {
-
-&#x20; "features": {
-
-&#x20;   "study\_hours": 4,
-
-&#x20;   "sleep\_hours": 7,
-
-&#x20;   "revision\_frequency": 3,
-
-&#x20;   "assignment\_procrastination": 2,
-
-&#x20;   "study\_distraction": 2,
-
-&#x20;   "phone\_usage": 3,
-
-&#x20;   "social\_media\_hours": 2,
-
-&#x20;   "study\_schedule": 3,
-
-&#x20;   "exam\_preparation": 4,
-
-&#x20;   "planned\_goals\_completed": 3,
-
-&#x20;   "academic\_confidence": 4,
-
-&#x20;   "study\_stress": 2
-
-&#x20; }
-
+  "status": "ok",
+  "model": "study_pattern_model_v2",
+  "version": "2.0.0"
 }
-
 ```
 
+---
 
+# Features Endpoint
 
-\## Example Response
+Request:
 
+```text
+GET /features
+```
 
+This returns the features and available prediction classes used by the model.
+
+---
+
+# Prediction API
+
+## Endpoint
+
+```text
+POST /predict
+```
+
+Local development URL:
+
+```text
+http://127.0.0.1:8000/predict
+```
+
+---
+
+## Request Format
+
+The API expects the 12 features as numeric values from **1 to 4**.
+
+Example:
 
 ```json
-
 {
-
-&#x20; "prediction": "Needs Time Management"
-
+  "study_hours": 2,
+  "sleep_hours": 2,
+  "revision_frequency": 4,
+  "assignment_procrastination": 4,
+  "study_distraction": 3,
+  "phone_usage": 3,
+  "social_media_hours": 3,
+  "study_schedule": 1,
+  "exam_preparation": 4,
+  "planned_goals_completed": 1,
+  "academic_confidence": 2,
+  "study_stress": 4
 }
-
 ```
 
+---
 
+# Prediction Response
 
-The response shown is an example. Actual predictions depend on the submitted feature values.
+Example:
 
+```json
+{
+  "prediction": "Last-Minute Learner",
+  "confidence": 99.91,
+  "class_probabilities": {
+    "Consistent Learner": 0,
+    "Easily Distracted": 0.04,
+    "Last-Minute Learner": 99.91,
+    "Needs Time Management": 0.04
+  },
+  "features": {
+    "study_hours": 2,
+    "sleep_hours": 2,
+    "revision_frequency": 4,
+    "assignment_procrastination": 4,
+    "study_distraction": 3,
+    "phone_usage": 3,
+    "social_media_hours": 3,
+    "study_schedule": 1,
+    "exam_preparation": 4,
+    "planned_goals_completed": 1,
+    "academic_confidence": 2,
+    "study_stress": 4
+  }
+}
+```
 
+---
 
-\## Limitations
+# Backend Integration
 
+The ML API is designed to work with the application's Spring Boot backend.
 
+The frontend should display the human-readable questionnaire options.
 
-\* The current dataset is synthetic and may not represent real student behavior.
+The Spring Boot backend should convert the selected text answers into the corresponding numeric values.
 
-\* Model predictions depend on the quality and consistency of the input data.
+For example:
 
-\* The classification describes study patterns and is not a psychological or academic diagnosis.
+```text
+Frontend:
+"4+ hours"
 
-\* Further validation with real-world student data is required before practical deployment.
+        ↓
 
+Spring Boot Backend:
+study_hours = 4
 
+        ↓
 
-\## Future Improvements
+FastAPI:
+POST /predict
 
+        ↓
 
+ML Model:
+Prediction
+```
 
-\* Validate the model using real student survey responses.
+The ML API **does not accept the raw questionnaire text**. It currently accepts the numeric values from 1 to 4.
 
-\* Improve classification performance and generalization.
+---
 
-\* Integrate the Flask API with the Spring Boot backend.
+# Integration Example
 
-\* Connect the React survey interface to the prediction service.
+A student selects:
 
-\* Add visualizations and personalized study suggestions.
+```text
+Study Hours:
+4+ hours
 
+Assignment Procrastination:
+Always
 
+Exam Preparation:
+Night before
+```
 
-\## License
+The backend converts them to:
 
+```json
+{
+  "study_hours": 4,
+  "assignment_procrastination": 4,
+  "exam_preparation": 4
+}
+```
 
+along with the remaining nine feature values.
 
-Add an appropriate license before distributing this project publicly.
+The complete JSON is then sent to:
 
-vvvvvvvvvvvvvv
+```text
+POST /predict
+```
 
+---
+
+# Important Integration Rules
+
+The following must remain unchanged:
+
+### Feature names
+
+```text
+study_hours
+sleep_hours
+revision_frequency
+assignment_procrastination
+study_distraction
+phone_usage
+social_media_hours
+study_schedule
+exam_preparation
+planned_goals_completed
+academic_confidence
+study_stress
+```
+
+### Feature values
+
+All values must be between:
+
+```text
+1 and 4
+```
+
+### Feature order
+
+The backend should use the exact feature names expected by the model.
+
+### Revision frequency encoding
+
+Do not change:
+
+```text
+Daily             → 1
+Few times a week  → 2
+Before exams      → 3
+Rarely            → 4
+```
+
+Changing this encoding without retraining the model can produce incorrect predictions.
+
+---
+
+# Testing the Model
+
+The repository includes testing scripts.
+
+## Test the V2 Model
+
+```powershell
+python test_model_v2.py
+```
+
+The script tests realistic student profiles including:
+
+- Consistent Student
+- Easily Distracted Student
+- Last-Minute Student
+- Time Management Student
+
+---
+
+# Example Model Test Results
+
+The V2 model correctly classified the four representative profiles during testing:
+
+| Test Profile | Prediction | Confidence |
+|---|---|---:|
+| Consistent Student | Consistent Learner | 100.00% |
+| Easily Distracted Student | Easily Distracted | 98.60% |
+| Last-Minute Student | Last-Minute Learner | 99.91% |
+| Time Management Student | Needs Time Management | 81.10% |
+
+These are representative test cases and should not be interpreted as general real-world accuracy.
+
+---
+
+# API Testing with Swagger
+
+After starting the API:
+
+```powershell
+python -m uvicorn app:app --reload
+```
+
+Open:
+
+```text
+http://127.0.0.1:8000/docs
+```
+
+Select:
+
+```text
+POST /predict
+```
+
+Click:
+
+```text
+Try it out
+```
+
+Enter the 12 feature values and execute the request.
+
+The API will return:
+
+```text
+Prediction
+Confidence
+Class Probabilities
+```
+
+---
+
+# Limitations
+
+- The V2 dataset is synthetic/generated data and may not represent the full diversity of real student behavior.
+- Model performance on the V2 dataset does not guarantee the same performance on real student responses.
+- The four study-pattern categories can overlap in real-world situations.
+- The system classifies study patterns and is **not a psychological, medical, or academic diagnosis**.
+- Confidence values represent the model's predicted probability distribution and should not be interpreted as certainty.
+- Further validation using real student survey data is required before practical deployment.
+- The ML service currently runs locally and requires deployment for access from external backend servers.
+
+---
+
+# Future Improvements
+
+- Collect and validate the model using real student questionnaire responses.
+- Improve generalization using a larger and more diverse dataset.
+- Perform additional hyperparameter optimization.
+- Evaluate additional classification algorithms.
+- Deploy the FastAPI ML service to a cloud/server environment.
+- Integrate the ML API with the Spring Boot backend.
+- Connect the React questionnaire interface to the prediction service.
+- Store prediction history where appropriate.
+- Add personalized study recommendations.
+- Add dashboards and visualizations for study-pattern analysis.
+- Monitor model performance after deployment.
+- Retrain the model periodically using validated real-world data.
+
+---
+
+# Current Development Status
+
+```text
+Dataset V2                  ✅ Completed
+Model training              ✅ Completed
+Model comparison            ✅ Completed
+V2 model selection          ✅ Completed
+Profile testing             ✅ Completed
+FastAPI ML service          ✅ Completed
+/health endpoint            ✅ Completed
+/features endpoint          ✅ Completed
+/predict endpoint           ✅ Completed
+API testing                 ✅ Completed
+GitHub integration           ✅ Completed
+Frontend integration         🔄 Pending
+Spring Boot integration      🔄 Pending
+ML API deployment            🔄 Pending
+```
+
+---
+
+# License
+
+Add an appropriate open-source license before distributing this project publicly.
